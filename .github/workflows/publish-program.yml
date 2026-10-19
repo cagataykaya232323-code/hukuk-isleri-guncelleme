@@ -18,7 +18,7 @@ jobs:
         shell: bash
         run: |
           python3 - <<'PY'
-          import os,json,base64,hashlib,re,urllib.request,urllib.error,concurrent.futures
+          import os,json,base64,hashlib,re,urllib.request,urllib.error,concurrent.futures,functools
           repo=os.environ["RELEASE_REPO"]
           if repo!="cagataykaya232323-code/hukuk-isleri-guncelleme": raise RuntimeError("Unexpected repository")
           api="https://api.github.com/repos/"+repo
@@ -30,6 +30,7 @@ jobs:
                   h["Content-Type"]=ctype
               with urllib.request.urlopen(urllib.request.Request(url,data=data,headers=h,method=method),timeout=180) as r:
                   return json.loads(r.read())
+          @functools.lru_cache(maxsize=256)
           def blob(sha):
               if not re.fullmatch(r"[0-9a-f]{40}",sha):raise RuntimeError("Invalid blob")
               return base64.b64decode(request(api+"/git/blobs/"+sha)["content"])
@@ -42,11 +43,12 @@ jobs:
           if not re.fullmatch(r"\d{1,4}\.\d{1,4}\.\d{1,4}",version):raise RuntimeError("Invalid version")
           if manifest["Url"]!=f"https://github.com/{repo}/releases/download/v{version}/HukukIsleri-Windows-x64.zip":raise RuntimeError("Invalid URL")
           chunks=job["Chunks"]
-          if not 1<=len(chunks)<=400 or not 1<=manifest["Size"]<=300*1024*1024:raise RuntimeError("Invalid package size")
+          if not 1<=len(chunks)<=5000 or not 1<=manifest["Size"]<=300*1024*1024:raise RuntimeError("Invalid package size")
           def part(item):
               data=blob(item["Sha"])
-              if len(data)!=item["Size"] or len(data)>2*1024*1024:raise RuntimeError("Invalid chunk")
-              return data
+              offset=item.get("Offset",0);size=item["Size"]
+              if not isinstance(offset,int) or offset<0 or not 1<=size<=2*1024*1024 or offset+size>len(data) or len(data)>2*1024*1024:raise RuntimeError("Invalid chunk")
+              return data[offset:offset+size]
           with open("HukukIsleri-Windows-x64.zip","wb") as f:
               with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
                   for data in pool.map(part,chunks):f.write(data)
