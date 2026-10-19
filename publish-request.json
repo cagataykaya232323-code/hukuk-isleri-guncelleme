@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJTaGEyNTYiOiJkODJlNjg2MmIwNDNkMjBiMGQyZDBmNjIwOGY0ZjFlMzNjNWNkNmYyZjJiMDdiNDkwMjg1MGNiMjE3OWEzMjFhIiwiVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2NhZ2F0YXlrYXlhMjMyMzIzLWNvZGUvaHVrdWstaXNsZXJpLWd1bmNlbGxlbWUvcmVsZWFzZXMvZG93bmxvYWQvdjEuMy4zL0h1a3VrSXNsZXJpLVdpbmRvd3MteDY0LnppcCIsIlZlcnNpb24iOiIxLjMuMyIsIk5vdGVzIjoiSHVrdWsgxLDFn2xlcmkgMS4zLjMgc8O8csO8bcO8IiwiU2l6ZSI6MTA5MTM0NzU1fQ==",
-    "Signature": "RzvLzy5yYwjOgerAbLolgj+YQHE5+Nlz2IUUT77r+T6eD86iDM35bCOVOdvQK5puJslFdlsMmDbaLbcFGC27xfIE3LCy7SdACmlZUW/HiJ+xNFVXgKPnuwOFSm5ZZtqlJz5jWwJ8Ri8yre2qODU7IivQevRkdLbyOvTotirbETuHvfOdvvo5SGSjawOQAo+2zsANxfYN9Y5zkRXGxc7oMYeWsbO2fGSRpnWhNUQqcCATR6i6SssI5wLS+o5hLaYWXtjC7IFwJAq7yEPXyhvpXWINas0qo1JXgPSEBWxGcp8GmCemdPlGjrwLTJMsEcAnP0EraCLHg8YpPVoyiYJ/cef8F6KhGIEEjz3+Uu3Z4yL+M2DEpegobTeNKcXnuthnF89QRO1CpHrpVIvYSzjoVAiFJSA3BD330Vn5w/7I9ju0yib/PUxLmM6Dx6mc5exPd4XrTaBcgQ1RCFhIR6i+5BY8im8/p5D6byZbUQrbu+jyG1NZVEcIms++AAnhBXC9"
+    "Payload": "eyJWZXJzaW9uIjoiMS4zLjQiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjQvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTA5MTM2NTgyLCJOb3RlcyI6Ikh1a3VrIMSwxZ9sZXJpIDEuMy40IHPDvHLDvG3DvCIsIlNoYTI1NiI6IjdlYjZjZDhlNGFmN2ExZmM0MjE1ZGI1N2FlNWYyMjk1OWRkYzkyZjAxNzk0YzE0Nzc2YThlMTEyOTc4MDcxOGMifQ==",
+    "Signature": "kTj5ZqOyIHOr+cwxPkQJLXzs/lBfHAVNCOP4GjIdiNjAaPKcI/coppkQ1zVN4bSpp0yU5gSU5nfvOIotRmdPvlERD8oKsk7kTyCUzJ1Old5XJ929TJOgaG3ZROKATN6cmp1MisGKIzyv4s21ZoUbadK2xM2ID3Kb97jG+o+fq8rbnJ3pmLkYAdDalx7DoG4whnvYBbtYZS7n7K+7OUBdZ7aBUOyjdK2nPp2i3Adv90cShaLErjUjCRxX/i7EH4DsYo9J0m7w/lH4/zlnuiKH7TPWKIazvGCrq+dxzyGftFwoJYknTCFiaX7npeuHQU8vtymRXcl7tUb+y20AFPUQq5dbukrcoGs7/0x1K93ro+1P0iH2HsuHjiFGaoNjv0o7KLFpq9yXyt+X1a+QKtnPfFMXHghjErzfp7VPLiLE8R8tx8T1NQV88/QCyGpgVvnEb7LP4mLDhuFHGce5OvsT48JwzDRwjaZ4+korPw/OmRWkhrDtqxQpDuoHgwjqx6eb"
   },
   "Chunks": [
     {
@@ -56,16 +56,16 @@
     },
     {
       "Size": 2097152,
-      "Sha": "bae5eb3234f7099b731a51c1028cd7bd4162219f"
+      "Sha": "e95bcd1baa834d1248a59ab4d35025c5d72a46d8"
     },
     {
-      "Size": 1546642,
-      "Sha": "648f2fc637fae168daf62b433f7f92a8c8273486"
+      "Size": 1605659,
+      "Sha": "428422f69464607e6eeff9b9053a7d24542d8d42"
     },
     {
       "Sha": "15afaed65c78766ee0f4c102e85a2eeaf884ba6e",
-      "Offset": 702767,
-      "Size": 65945
+      "Offset": 761021,
+      "Size": 7691
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -84,7 +84,7 @@
     },
     {
       "Size": 72,
-      "Sha": "040b47cb2a4da246d7b9076695afa6538118343e"
+      "Sha": "66918def7e362d514d8ec2f5bd55012aeb41a74c"
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -93,7 +93,7 @@
     },
     {
       "Size": 71,
-      "Sha": "461f2f2cec2dc6fa87a3ba39cdeb8dfbe0bf03d4"
+      "Sha": "4894dc4a966ea62dcf04031abfad18d2572a2b28"
     },
     {
       "Sha": "ab5ab270bd64171052ed99e24dd76cb606b7ec92",
@@ -102,7 +102,7 @@
     },
     {
       "Size": 65,
-      "Sha": "b4414512ff7f20762715d2a63a5fd6912efc9238"
+      "Sha": "2ada9f705873a2e746d43e3a9b8b3163bc93ce57"
     },
     {
       "Sha": "ab5ab270bd64171052ed99e24dd76cb606b7ec92",
@@ -186,7 +186,7 @@
     },
     {
       "Size": 80,
-      "Sha": "a45f0a4fb21a1f009a5e60adc28afec29fce7f54"
+      "Sha": "3ecf916bfd9c077cadf6acd44fe263d3b85be9df"
     },
     {
       "Sha": "7203ca1b318885df4f0a810a847c164f1f4b52ae",
@@ -264,8 +264,8 @@
       "Size": 1543500
     },
     {
-      "Size": 3735,
-      "Sha": "0a3eb9bcb09f48b6f700b4c40d1ec400f8eca78e"
+      "Size": 3736,
+      "Sha": "66d3d5af548d18cc673c2be0d0e9c2a99a33b10a"
     },
     {
       "Sha": "5da1287fd748a7bb619dbeeb9ac9e9c963ea0f84",
@@ -283,8 +283,13 @@
       "Size": 1684
     },
     {
-      "Size": 691,
-      "Sha": "08641d598af2e5f6f7f76fec142317d5ac2fc220"
+      "Sha": "08641d598af2e5f6f7f76fec142317d5ac2fc220",
+      "Offset": 0,
+      "Size": 691
+    },
+    {
+      "Size": 991,
+      "Sha": "65155b2aef406eaf266cb306b517847bb1af3f8a"
     },
     {
       "Sha": "2183da1365d6eb615315e43baac74f7b4bc9779c",
@@ -377,9 +382,9 @@
       "Size": 205575
     },
     {
-      "Size": 39809,
-      "Sha": "552042f2ac7832c5a8458848b222d95fd515d068"
+      "Size": 39881,
+      "Sha": "d10f777b913208e07e9a0e0ef34e18431698cc2e"
     }
   ],
-  "Notes": "CK HD logolu Liquid Glass açılışı: mavi dönen çemberler, yaklaşık 3–4 saniye görünüm ve yumuşak ana ekran geçişi. Hareket ayarlarına uyum. 157 test, 40 uygulama kontrolü ve 3 açılış senaryosu başarılı."
+  "Notes": "Üst arama yerine CK logosu ve Geliştirici Çağatay Kaya eklendi. Başlıklar kalın, içerik daha büyük ve normal kalınlıkta. Uzun metinler ve dar belge panelleri pencereye uyum sağlar. Ön izleme çözünürlüğü artırıldı. Liquid Glass açılışı yaklaşık 5–6 saniye. 157 test ve 42 uygulama kontrolü başarılı."
 }
