@@ -1,0 +1,63 @@
+name: Publish signed program release
+on:
+  push:
+    branches: [main]
+    paths: [publish-request.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      RELEASE_REPO: ${{ github.repository }}
+      RELEASE_COMMIT: ${{ github.sha }}
+    steps:
+      - name: Assemble verified program package and publish release
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os,json,base64,hashlib,re,urllib.request,urllib.error,concurrent.futures
+          repo=os.environ["RELEASE_REPO"]
+          if repo!="cagataykaya232323-code/hukuk-isleri-guncelleme": raise RuntimeError("Unexpected repository")
+          api="https://api.github.com/repos/"+repo
+          headers={"Authorization":"Bearer "+os.environ["GH_TOKEN"],"Accept":"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28","User-Agent":"HukukIsleri-Publisher"}
+          def request(url,data=None,method=None,ctype="application/json"):
+              h=dict(headers)
+              if data is not None:
+                  if not isinstance(data,bytes):data=json.dumps(data).encode()
+                  h["Content-Type"]=ctype
+              with urllib.request.urlopen(urllib.request.Request(url,data=data,headers=h,method=method),timeout=180) as r:
+                  return json.loads(r.read())
+          def blob(sha):
+              if not re.fullmatch(r"[0-9a-f]{40}",sha):raise RuntimeError("Invalid blob")
+              return base64.b64decode(request(api+"/git/blobs/"+sha)["content"])
+          tree=request(api+"/git/trees/"+os.environ["RELEASE_COMMIT"]+"?recursive=1")
+          entry=next(e for e in tree["tree"] if e["path"]=="publish-request.json")
+          job=json.loads(blob(entry["sha"]))
+          signed=job["Manifest"]
+          manifest=json.loads(base64.b64decode(signed["Payload"]))
+          version=manifest["Version"]
+          if not re.fullmatch(r"\d{1,4}\.\d{1,4}\.\d{1,4}",version):raise RuntimeError("Invalid version")
+          if manifest["Url"]!=f"https://github.com/{repo}/releases/download/v{version}/HukukIsleri-Windows-x64.zip":raise RuntimeError("Invalid URL")
+          chunks=job["Chunks"]
+          if not 1<=len(chunks)<=400 or not 1<=manifest["Size"]<=300*1024*1024:raise RuntimeError("Invalid package size")
+          def part(item):
+              data=blob(item["Sha"])
+              if len(data)!=item["Size"] or len(data)>2*1024*1024:raise RuntimeError("Invalid chunk")
+              return data
+          with open("HukukIsleri-Windows-x64.zip","wb") as f:
+              with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+                  for data in pool.map(part,chunks):f.write(data)
+          package=open("HukukIsleri-Windows-x64.zip","rb").read()
+          if len(package)!=manifest["Size"] or hashlib.sha256(package).hexdigest().lower()!=manifest["Sha256"].lower():raise RuntimeError("Package hash mismatch")
+          envelope=json.dumps(signed,separators=(",",":")).encode()
+          release=request(api+"/releases",{"tag_name":"v"+version,"target_commitish":"main","name":"Hukuk İşleri "+version,"body":job.get("Notes","Program güncellemesi"),"draft":True,"prerelease":False},method="POST")
+          upload=release["upload_url"].split("{")[0]
+          for name,content,ctype in [("HukukIsleri-Windows-x64.zip",package,"application/zip"),("update.json",envelope,"application/json")]:
+              result=request(upload+"?name="+name,content,method="POST",ctype=ctype)
+              if result["size"]!=len(content):raise RuntimeError("Asset size mismatch")
+          published=request(api+"/releases/"+str(release["id"]),{"draft":False,"make_latest":"true"},method="PATCH")
+          print("Published",published["html_url"])
+          PY
