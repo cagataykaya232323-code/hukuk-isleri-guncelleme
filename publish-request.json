@@ -1,221 +1,324 @@
 {
   "Manifest": {
-    "Payload": "eyJOb3RlcyI6Ikh1a3VrIMSwxZ9sZXJpIDEuMy4wIHPDvHLDvG3DvCIsIlNoYTI1NiI6IjQ1MTUxN2Q5NDJkNDc0NWQzOTQzNTcyYmQ0OGExNjgzNTZlYWY1ODAyOTBlMzYyMTk5OThjODhlNDM1ZjkwNWYiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjAvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiVmVyc2lvbiI6IjEuMy4wIiwiU2l6ZSI6MTA4MjQ4NDA5fQ==",
-    "Signature": "VL2u/1eAgG7wa09uMqHyt9PhKKskFevkg26NJgZJsfmznt9RuMWebjMGP4vzd+9eJJiAPFvGCg+G7jarz0ucPlG7M2tX7ss2yFKhy2xu/8mhAkxYted/0g9zW/jjj2kN0EW9VcJVg6euvwPnw6bLwG6CKpBp6C5ZCbnpQi3SN6WIjP9AIEWx6TMAbumoLS7qhlMEulfLxRBzDMws9yBPPXhYU9wwOSzdF/UALSaWxiJScp+Y30NdfqG1iIVSsezOqpuEpwrELLnFECTcxHo3P6+4QAOz69tlJ+0iwqLsknTByhBijh3ozii0Yswu360q+bs1YQsQouf4lZN6X9LTd/ix5A8VUwN14dqkEmuMi/+5fFQ6XBvtcFEzGYTnkGxqAehsQ85e/vlcslVHDbQ2Vlv1B4DoL73UPfEkgY3gKhTwDw/QNSyGwP5MmPRAQPQCKzvYDemwiZyCfEgGlVaAicLckmuqUUkthSdM048flgUGrsg+lIJeKkHbaX9TLjb7"
+    "Payload": "eyJTaGEyNTYiOiI1NzY4ZjY2MTRjNDllZTFlY2Y5YTc1MzVjYmE1YzAzZDVkYjY4MzZjMTQ4ZjkwYTcxMGFiMDdiOGI2OGZiYjJkIiwiTm90ZXMiOiJIdWt1ayDEsMWfbGVyaSAxLjMuMSBzw7xyw7xtw7wiLCJTaXplIjoxMDgyNTM3MzIsIlZlcnNpb24iOiIxLjMuMSIsIlVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYWdhdGF5a2F5YTIzMjMyMy1jb2RlL2h1a3VrLWlzbGVyaS1ndW5jZWxsZW1lL3JlbGVhc2VzL2Rvd25sb2FkL3YxLjMuMS9IdWt1a0lzbGVyaS1XaW5kb3dzLXg2NC56aXAifQ==",
+    "Signature": "PuV40sRWflc9EzgzHovQ1Slcbu++foBAFsvZcbKjXo1V+TXdDxCOcBsa6pl60Y5LlQDXq7icsx4z5yeD7nKInuZ9iU49SjPCx2sW4Y8eg0nJUl7LQbtAWy7FzodIYZcqKaOw2RE02B8NfFxmN2qz63SYW5Ugy/wJmpziKBYtCbhqbw6iRx4M56k0G6cVpgzhIoEjLUteoP5s5V9ceqXmn1/ICy4GiEMF1O9w6jDj10E5IU7qURap+NCephFp8zA3AuUCt/fNybkRuT2oi/OA42PHVj22OfbOqHAe0y+ywr49CTJFp3zjo9qyqrfmAW6vn5dRUVp6I818WNdAiJsjhz8VK3+ui+Uy/e8EXmNcDmdnh3nZkp4aG8dT26bw3L6e4y4tW2AUOVC4ClohwWHjW39PiXDMG5Vh1YvS7W7dKfLJhVwr0DkWQvP8MXgYIcK1TtodR+cC0ruHWOjA2BtgNKTtyOOo0FVu7orfLuHJ165rQHkah7E02ib0ClAk6ktk"
   },
   "Chunks": [
     {
       "Sha": "bfbee13759e60bb03766134cf91606718d631411",
+      "Offset": 0,
       "Size": 1048576
     },
     {
       "Sha": "0ff030e8f759ce03b2ab87890a4bf471de1ca5c5",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "88c327668edc26547f4e01a891a24439604eb38f",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "2a7512ab03229b382051b1e9be9fbf45b6e86780",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
-      "Size": 2097152
+      "Offset": 0,
+      "Size": 516404
+    },
+    {
+      "Sha": "75858d2c4200a2f8957abfa8a40ea7a0320a3535",
+      "Offset": 839689,
+      "Size": 19688
+    },
+    {
+      "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
+      "Offset": 536092,
+      "Size": 1561060
     },
     {
       "Sha": "9321cbcf0a618a345e608d4cfdff0698cef09579",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "baaaab83d3fe30b234ce436f2eef5a739e8642c3",
-      "Size": 2097152
+      "Offset": 0,
+      "Size": 51395
+    },
+    {
+      "Size": 2097152,
+      "Sha": "83536cc509ce7dc22e9a4ea71bd68d9c5990f307"
+    },
+    {
+      "Size": 678961,
+      "Sha": "10682e1edc9930ed47949d3905094debf51cdbdc"
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
-      "Size": 2097152
+      "Offset": 725882,
+      "Size": 1371270
     },
     {
       "Sha": "f0c126105b37c26071b4543b64e90490cf2aca21",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "f4fb1df9d55325e1227eee29ca7438be99a5af75",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "c12a5e3124f9cf840876a6f4527033eb2721ac30",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "c7da19a69ce7df819411ece015b1efdb1b7ae871",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "16608f91f49c3b535d3638c66f5eb15450c031d7",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "13cdb5d37c88020d6f09bee9b76070df49b34ed5",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "42affc8e5d7ee35fb8354ca4e89f2a39055a6635",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "54b78face3a3f5effd0cb953e79eeb28d5dc57e4",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "c7d068bee75b8ea86157d0f01d7b4f43fe715f80",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "f356cbc35810d3d64321502062cbf203d8d99a2f",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "878a57574424b8ce4b5e2c17e48c7398a193d277",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "5a0b226c88b69e21e507faae5e03a93f15636114",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "0c62eaed3e342c71720c2ede7e0198eec9a21a2b",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "533aa4b30f18b22fa1ed66f73bb4b5593b1c54c4",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "7203ca1b318885df4f0a810a847c164f1f4b52ae",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "0eeaa03caef32ca9b9468f764a35b7d0f5040308",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "0d029d92bfaea44ef761085c527cfb015eeed6ac",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "b0e3172cf7ac077cff1f6189919813427e3bc1ce",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "6329464ee389fd55a99f2a12fde474909537a185",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "509256ca1f26e061b06484d17d376c9d2b5a7cdb",
-      "Size": 2097152
+      "Offset": 0,
+      "Size": 153917
+    },
+    {
+      "Sha": "509256ca1f26e061b06484d17d376c9d2b5a7cdb",
+      "Offset": 745807,
+      "Size": 591804
+    },
+    {
+      "Sha": "509256ca1f26e061b06484d17d376c9d2b5a7cdb",
+      "Offset": 745721,
+      "Size": 1351431
     },
     {
       "Sha": "be5a8fa9580eec9fbb86e8992242f6fb28048a5a",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "ba5b304bc0875be5c19ce5dfe33ba1d91b77366c",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "76d2dc0dd17f2cdf8c92ce0488c00e36d12b76e1",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "01d82b3b5d1b5333e7b3a10f5abc92a1dc66305f",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "f8cdd7e25e9413a2cdbde30e748f32a51c3310c6",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "920833999cbab98f6266f184d8bcb850c385f950",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "5da1287fd748a7bb619dbeeb9ac9e9c963ea0f84",
-      "Size": 2097152
+      "Offset": 0,
+      "Size": 1543500
+    },
+    {
+      "Size": 3680,
+      "Sha": "d319d8d41074ada424e497316a21d77adb31ee29"
+    },
+    {
+      "Sha": "5da1287fd748a7bb619dbeeb9ac9e9c963ea0f84",
+      "Offset": 1547181,
+      "Size": 549971
     },
     {
       "Sha": "2183da1365d6eb615315e43baac74f7b4bc9779c",
-      "Size": 2097152
+      "Offset": 0,
+      "Size": 58690
+    },
+    {
+      "Size": 778,
+      "Sha": "4b837c71367fa5ae507af37893cf48d52af1debe"
+    },
+    {
+      "Sha": "2183da1365d6eb615315e43baac74f7b4bc9779c",
+      "Offset": 58690,
+      "Size": 2038462
     },
     {
       "Sha": "4db2de41c004d4b3db8461735b6003734a05a48a",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "472c06fe1c7a7f7bd17fb8e41c5b0b583473f3f1",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "d5a4d853ae4da4ddf41159ef8a461c34f5344543",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "e2efd47081035be276d2427f4cecb8fa3caa89de",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "f1c98dccbbbe7689de9e47e443a9aab3705c6b9c",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "19b4ce4cfb8f6f6f5470914622cfbc9fd56661b3",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "8e5ae23e72145e7d1b990d4f99d10fbd6551e265",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "398b4bd076a68c539f1c39d82c019bbc03a411b7",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "d281a92b536dc40feeed3a60b585ea3293f7da1d",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "87e6f54fcc6c6bc4a53aa6f705fb143305ac60e1",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "ca04519c967cc557fc79794a42044ce74cb94505",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "f686fa92c1da2aeaa4dfb31edd02e3ea28639b09",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "36037ad57863700084016cdfed6fd27d9f55b43d",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "896dade9a37c675886eb9e784af944f6c6c2fa64",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "75858d2c4200a2f8957abfa8a40ea7a0320a3535",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "12030a14f0138890a4f4644bbfe2c646c36c37cc",
+      "Offset": 0,
       "Size": 2097152
     },
     {
       "Sha": "305de094452d40f1902bea4fcc62fae66257a0c1",
-      "Size": 245081
+      "Offset": 0,
+      "Size": 205575
+    },
+    {
+      "Size": 39578,
+      "Sha": "030d479a87fc1517a25145004e64ba55169f8f3e"
     }
   ],
-  "Notes": "Dava listesi: Mahkeme, Davacı, Esas No, Konu. 2025 kayıtları üstte, 2026 kayıtları altta. Sıra ve ada/parsel alanları kaldırıldı. Açık temada siyah, koyu temada beyaz ve kalın arayüz yazıları. Mevcut Windows oturum adı. Kaynak Excel ve belgeler korunur. 135 otomatik test ve 31 Windows iş akışı kontrolü geçti."
+  "Notes": "Tam ekran görünümü düzeltildi: pencere çalışma alanına oturur, alt durum çubuğu görünür kalır ve dava tablosu ekran genişliğine uyum sağlar. 135 otomatik test ve 36 uygulama kontrolü geçti."
 }
