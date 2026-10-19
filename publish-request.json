@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Signature": "EjU9MLbvrmcNqe7FHMtqQ7niXlf9u0Vl0pHoXYW7o7BQM94XmqRj/64u3/hYgbUDyGQaJGBgPa7bUKnqKpxUs0CnXFPtuzh8/Qlp/xygXziR57WoWmNHdAa7glQa/GqlAPJhZdmF7nIZVm5DUQAw78r0XU+DEKXBi2o8lug2r0Sb4FoiAbK0ZzHJI7y26Jrh7Qxz16c2JgA234t/sbceiukQS4rJQPBs5YtEPMhkJIGEWxBI911rwiRUrAFBd1XeOXmBkmV5NKncuYz2j/n3WzQMz75Z/YdijLXQI1siu/YTgF73YGyhriwz5u/flJ7+nTFgdvqeSbCY9gfd6ctXoB2SDY7lVHRbYpRlHsubtIwUnmUaP4QbOr3idAgb5BdolAVD3Ekr3Gq4uK0cnX+uAZtlHOmCGf1Sh8XTv33rEVcE53eqlSxOoZOTUJ8l1bAwpZxgnvXjfX6K67ntLvuF42bo5ZX35kQsnRoldYS3Bh2JRxMYuDwkdsO6Lz27XJwR",
-    "Payload": "eyJTaGEyNTYiOiJiYzQzYTE0NjYxYmUwNjllZTU4NDA4NTU0N2Q4MGZmYzAzMTQ0ZGQxNTY1NWNiMDkzOWRhZjJkNjY3NWQxNTI1IiwiVmVyc2lvbiI6IjEuMy4yIiwiVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2NhZ2F0YXlrYXlhMjMyMzIzLWNvZGUvaHVrdWstaXNsZXJpLWd1bmNlbGxlbWUvcmVsZWFzZXMvZG93bmxvYWQvdjEuMy4yL0h1a3VrSXNsZXJpLVdpbmRvd3MteDY0LnppcCIsIk5vdGVzIjoiSHVrdWsgxLDFn2xlcmkgMS4zLjIgc8O8csO8bcO8IiwiU2l6ZSI6MTA4MjY3MTY4fQ=="
+    "Payload": "eyJTaGEyNTYiOiJkODJlNjg2MmIwNDNkMjBiMGQyZDBmNjIwOGY0ZjFlMzNjNWNkNmYyZjJiMDdiNDkwMjg1MGNiMjE3OWEzMjFhIiwiVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2NhZ2F0YXlrYXlhMjMyMzIzLWNvZGUvaHVrdWstaXNsZXJpLWd1bmNlbGxlbWUvcmVsZWFzZXMvZG93bmxvYWQvdjEuMy4zL0h1a3VrSXNsZXJpLVdpbmRvd3MteDY0LnppcCIsIlZlcnNpb24iOiIxLjMuMyIsIk5vdGVzIjoiSHVrdWsgxLDFn2xlcmkgMS4zLjMgc8O8csO8bcO8IiwiU2l6ZSI6MTA5MTM0NzU1fQ==",
+    "Signature": "RzvLzy5yYwjOgerAbLolgj+YQHE5+Nlz2IUUT77r+T6eD86iDM35bCOVOdvQK5puJslFdlsMmDbaLbcFGC27xfIE3LCy7SdACmlZUW/HiJ+xNFVXgKPnuwOFSm5ZZtqlJz5jWwJ8Ri8yre2qODU7IivQevRkdLbyOvTotirbETuHvfOdvvo5SGSjawOQAo+2zsANxfYN9Y5zkRXGxc7oMYeWsbO2fGSRpnWhNUQqcCATR6i6SssI5wLS+o5hLaYWXtjC7IFwJAq7yEPXyhvpXWINas0qo1JXgPSEBWxGcp8GmCemdPlGjrwLTJMsEcAnP0EraCLHg8YpPVoyiYJ/cef8F6KhGIEEjz3+Uu3Z4yL+M2DEpegobTeNKcXnuthnF89QRO1CpHrpVIvYSzjoVAiFJSA3BD330Vn5w/7I9ju0yib/PUxLmM6Dx6mc5exPd4XrTaBcgQ1RCFhIR6i+5BY8im8/p5D6byZbUQrbu+jyG1NZVEcIms++AAnhBXC9"
   },
   "Chunks": [
     {
@@ -50,12 +50,22 @@
       "Size": 28754
     },
     {
-      "Size": 2097152,
-      "Sha": "c4a59614f292b248dedc77d70b97e75d1a77ff39"
+      "Sha": "c4a59614f292b248dedc77d70b97e75d1a77ff39",
+      "Offset": 0,
+      "Size": 22950
     },
     {
-      "Size": 768712,
-      "Sha": "15afaed65c78766ee0f4c102e85a2eeaf884ba6e"
+      "Size": 2097152,
+      "Sha": "bae5eb3234f7099b731a51c1028cd7bd4162219f"
+    },
+    {
+      "Size": 1546642,
+      "Sha": "648f2fc637fae168daf62b433f7f92a8c8273486"
+    },
+    {
+      "Sha": "15afaed65c78766ee0f4c102e85a2eeaf884ba6e",
+      "Offset": 702767,
+      "Size": 65945
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -63,8 +73,9 @@
       "Size": 71190
     },
     {
-      "Size": 84,
-      "Sha": "784a3e5fa637fd0e2bf58137921f692d05abeea1"
+      "Sha": "784a3e5fa637fd0e2bf58137921f692d05abeea1",
+      "Offset": 0,
+      "Size": 84
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -73,7 +84,7 @@
     },
     {
       "Size": 72,
-      "Sha": "a90340f9955862cbe1e11cdf5901b02c26e816d6"
+      "Sha": "040b47cb2a4da246d7b9076695afa6538118343e"
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -81,68 +92,101 @@
       "Size": 280
     },
     {
-      "Size": 2097152,
-      "Sha": "ab5ab270bd64171052ed99e24dd76cb606b7ec92"
+      "Size": 71,
+      "Sha": "461f2f2cec2dc6fa87a3ba39cdeb8dfbe0bf03d4"
     },
     {
-      "Size": 2097152,
-      "Sha": "f4c77c051ed739e9d578353e5be7dd5de71c3374"
+      "Sha": "ab5ab270bd64171052ed99e24dd76cb606b7ec92",
+      "Offset": 71,
+      "Size": 1967
     },
     {
-      "Size": 2097152,
-      "Sha": "62c6a22ae0cc3b3dc111720a1f651fb92d83f3ce"
+      "Size": 65,
+      "Sha": "b4414512ff7f20762715d2a63a5fd6912efc9238"
     },
     {
-      "Size": 2097152,
-      "Sha": "3d358cfb061283523dd0e1355bcc177a9086f762"
+      "Sha": "ab5ab270bd64171052ed99e24dd76cb606b7ec92",
+      "Offset": 2103,
+      "Size": 2095049
     },
     {
-      "Size": 2097152,
-      "Sha": "85d5f7747022fa4f599d7ee225b79ecb96750d00"
+      "Sha": "f4c77c051ed739e9d578353e5be7dd5de71c3374",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "ca8ec7c140175d017ed1c695d95338f364ac3efb"
+      "Sha": "62c6a22ae0cc3b3dc111720a1f651fb92d83f3ce",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "4eb65105dfa97a1b9a03a9b113e454c946343ff2"
+      "Sha": "3d358cfb061283523dd0e1355bcc177a9086f762",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "555e1846375b7d2072fcf1b16174278cc6a891ff"
+      "Sha": "85d5f7747022fa4f599d7ee225b79ecb96750d00",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "5f0ce0e2c12c0075a0701e0e98c682f1673b9717"
+      "Sha": "ca8ec7c140175d017ed1c695d95338f364ac3efb",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "af4a7946c94ee03f0105e0bb60dd1602dd07d9cf"
+      "Sha": "4eb65105dfa97a1b9a03a9b113e454c946343ff2",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "9cf4d3f11cd6686f3c480ec5b3e2ac96670bfb69"
+      "Sha": "555e1846375b7d2072fcf1b16174278cc6a891ff",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "8cf9cca69287e08e6b674e02c7c70cc11868d287"
+      "Sha": "5f0ce0e2c12c0075a0701e0e98c682f1673b9717",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "b154d34cb2f9bcd6b8b1ebe0f7fbe1c36542f794"
+      "Sha": "af4a7946c94ee03f0105e0bb60dd1602dd07d9cf",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "bbaae33428c3157e0c6be5039533bd2562773709"
+      "Sha": "9cf4d3f11cd6686f3c480ec5b3e2ac96670bfb69",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 2097152,
-      "Sha": "914dd5e7ba74237bb0a4f6813568bfc27b80f738"
+      "Sha": "8cf9cca69287e08e6b674e02c7c70cc11868d287",
+      "Offset": 0,
+      "Size": 2097152
     },
     {
-      "Size": 468458,
-      "Sha": "8e793997f7316df7613429fcb64ab2fc132c40ab"
+      "Sha": "b154d34cb2f9bcd6b8b1ebe0f7fbe1c36542f794",
+      "Offset": 0,
+      "Size": 2097152
+    },
+    {
+      "Sha": "bbaae33428c3157e0c6be5039533bd2562773709",
+      "Offset": 0,
+      "Size": 2097152
+    },
+    {
+      "Sha": "914dd5e7ba74237bb0a4f6813568bfc27b80f738",
+      "Offset": 0,
+      "Size": 2097152
+    },
+    {
+      "Sha": "8e793997f7316df7613429fcb64ab2fc132c40ab",
+      "Offset": 0,
+      "Size": 468378
+    },
+    {
+      "Size": 80,
+      "Sha": "a45f0a4fb21a1f009a5e60adc28afec29fce7f54"
     },
     {
       "Sha": "7203ca1b318885df4f0a810a847c164f1f4b52ae",
@@ -220,8 +264,8 @@
       "Size": 1543500
     },
     {
-      "Size": 3736,
-      "Sha": "c7209fbcfcc2dd12de8ee03c29bf51c5f9109155"
+      "Size": 3735,
+      "Sha": "0a3eb9bcb09f48b6f700b4c40d1ec400f8eca78e"
     },
     {
       "Sha": "5da1287fd748a7bb619dbeeb9ac9e9c963ea0f84",
@@ -234,8 +278,13 @@
       "Size": 58690
     },
     {
-      "Size": 1684,
-      "Sha": "763152e5aa499a7500ce1bf9e0571ef64dd1f02a"
+      "Sha": "763152e5aa499a7500ce1bf9e0571ef64dd1f02a",
+      "Offset": 0,
+      "Size": 1684
+    },
+    {
+      "Size": 691,
+      "Sha": "08641d598af2e5f6f7f76fec142317d5ac2fc220"
     },
     {
       "Sha": "2183da1365d6eb615315e43baac74f7b4bc9779c",
@@ -328,9 +377,9 @@
       "Size": 205575
     },
     {
-      "Size": 39737,
-      "Sha": "ef4f03a695b045fd46fab5710cce55a6c3cb5425"
+      "Size": 39809,
+      "Sha": "552042f2ac7832c5a8458848b222d95fd515d068"
     }
   ],
-  "Notes": "Belge panelinde UDF ile sınırlayan uzantı filtresi kaldırıldı. UDF metni/gömülü görselleri, çok sayfalı TIFF, PDF, Word, Excel ve metin ön izlemesi eklendi. 157 otomatik test, 40 uygulama kontrolü ve 123 kaynak belgede 1.665 ön izleme sayfası başarıyla doğrulandı."
+  "Notes": "CK HD logolu Liquid Glass açılışı: mavi dönen çemberler, yaklaşık 3–4 saniye görünüm ve yumuşak ana ekran geçişi. Hareket ayarlarına uyum. 157 test, 40 uygulama kontrolü ve 3 açılış senaryosu başarılı."
 }
