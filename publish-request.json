@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS4zLjYiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjYvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzQ4MTU3LCJOb3RlcyI6IjUwIGh1a3VrIHZlIGFkYWxldCBhbMSxbnTEsXPEsTsgMTAgc2FuaXllZGUgYmlyIGRlxJ9pxZ9pbSIsIlNoYTI1NiI6ImFmZmE2OTZjMzg1NDRiYWJjNjc0YjdiYWI3MTFlNTg5ZmY4MDYwZjBiYWEzMWViZjhhOTFjNjRiM2M1MzgwNGUifQ==",
-    "Signature": "esFWvPhXOvGq8Rgq9RWI2X/5GrIDZxEDSl5tYSXKMa1HyhczDxw6s+pWyrW6yfbmvcAgVYnXm1TJiTc6ChAvLltx9FSN5InpB8pB/NsuUKFbi9DKO99NxIuVSTMEvajSiNVvGuHOilb+OaGq7HjYCCjMAGiCSNu+krQUT9iitbGo8YbGxDHymWLU1deiHTqLtmSGNxvtVoPbjtbneF3SPwU9RCfpa1/4yPumzz0kvihukKEFyUSUKICzN3wg6gvykbNq1ZRSAXGwxzVQLgHk/SqdGWcUkrR8CyswecpKUBp8REAthW8lVQ7mn/Jqjjn7ibc6os+yV5NYzQ5KRdu/E8TAe8JaAPtk6LUSWbh3xGZbNAwC796TM1agji170PEBKRWK06yjpkveI9hltFeP4/W2Jvf8cLiNimANp+GiyA+yGreb53pLhz1KU45tvpCdj2+pM2huh93+2OfOFdfbrzPuunM8xUPDXpZ82/dNW4O4DH8yUQ3UCJZJvMW1xenM"
+    "Payload": "eyJWZXJzaW9uIjoiMS4zLjciLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjcvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzUxMjg0LCJOb3RlcyI6IjEwMCBodWt1ayB2ZSBhZGFsZXQgYWzEsW50xLFzxLE7IHNheWZhbGFyIGFyYXPEsW5kYSBkZXZhbSBlZGVuIGTDtm5nw7wiLCJTaGEyNTYiOiI2NjU5ZjI0MzRhNGQyNWFiZjEwNjJkMGM1YzEwMzU2ZjdhMDI2ODk4MWIwYzU3Njg2YTY2ZGMwM2UxMWE5NmZiIn0=",
+    "Signature": "CUHibUBRRWzRyMZBHoOTML+S/UHNScLpQqqD1jOg0eQUzyRtkBgdyGDbycX4gkxnwSla9yCv6vgOCtBnUZnc3DfJnQ0+D+bUavrxgud7yQBn8jzO0YPLEC21TJzPUHqCAvI/8y35cnQaMnaxm/PEKwSwXJNpB3jKWRmObBaVD10U0nweWRH/evrBHMk2L5GWWdPm9jtQZdD9UAdthqABIJCtP+LBpp0FCKN80r2gRju9CVIXznW+WiDIg7dIraqFsvWQAF2VLOPVBJXEbndag9z9pePNZB6AMU6sqH0jq0CccsY0tM0tLc6WTZ1IKw/8Rf7R8oiou92W0uKV9cJXmQkTp59D7/K9CBDqkIaK7r+bJ1HUbMjzHgmyOSL6PrFfxWDj+Gfw8QrxkbCKierrQtkUUUm+71EIILmV9PowclZ+QEeQnSeKIegMr6ePGNm4KLKH7GltE9x6jeCtPDc5x2mF47Tx1yjg1XeO+sxhla0vo2EOKts1I1qG4OxyNKuh"
   },
   "Chunks": [
     {
@@ -50,104 +50,114 @@
       "Size": 22968
     },
     {
-      "Sha": "d25062c5c66e23f009921f1fe826bd7214f61607",
+      "Sha": "e3351e9c328d66f753219edd81fe1a4c13d7fa78",
+      "Offset": 0,
+      "Size": 4748
+    },
+    {
+      "Sha": "3dc3fa966b9d8ca3afaa5d2b09c984785926f65d",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "049278fb11ffc0150cbf78dcb9a9d97346426dd1",
+      "Sha": "1f049339573babf335543c4b361497e0e9ac5937",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "876a0ad954d50e4c851a19037a5d67b65328560b",
+      "Sha": "a9af362f3d370f30599d452f66494a89255b5f03",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "386f892d7f175163e3be61dda15dba47adacc77c",
+      "Sha": "fda64dfb900f23ffe7979c89a78019eaf15ebff7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a8dd52ac6798576c0e431e7f2c565140b5ddde6c",
+      "Sha": "d45934f124125d4e005c3cc9ff8ab5909bdc6dc5",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "45a987d2a59423b44f7fe178988d57060806f6c4",
+      "Sha": "4b46f1c1270bf4cf39b4f29d3e0ad000f0902625",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a83257d7d314365e0e62bc231af8f1838c1a0c58",
+      "Sha": "f18e9de5b4ab311136211f8121b2a35827bff2db",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "68574c156d17d28b574791684b4888b8e5c5dd19",
+      "Sha": "9d2d1a725f080393b0255b02c40d75afc88764f8",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "1ce151c0de917c1e9739c0ee85be9df0acccfd54",
+      "Sha": "ce1a8602909ee87a04e4ee885e520f07d9ce9a78",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "64637c528a8e47595f14d908bbe1a405438f34c8",
+      "Sha": "c4f11c9a759eaa25abfd356e06231aef81b29fcd",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "11f9b57e57e7e7ca366e5c4ae122ec1b2dd97d33",
+      "Sha": "249adefe4071687ef7a8c78575b4f41b86233f47",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "944c8e519c38fdbe6dc938131a6819a61b0beac0",
+      "Sha": "ba6a70775cfcf6039200be64177f4c0206680156",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "eb2c7a11b448e324b73cb34df26e8c972fd78679",
+      "Sha": "7754512dcbb95b463f2646e1ece86ec0ea2d84f9",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "1bab75a8ad8de0904abb70636e52fee31aae2f83",
+      "Sha": "5bb5ed5ea3236e2ddfba83cef800158b01dfaa5f",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "3068cda3907a3b1f56ee97ce1ce95555f23cda29",
+      "Sha": "be33b46cc86c326c8fda9da908e15102439c3904",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "5850184d30a42b65e5abdaafba079b3ce113a110",
+      "Sha": "691fa13a254320947bb4a9ddb3d6957f5c781f42",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "5789141a248b0ecc866e0bb3b05ee0c42c4ace6d",
+      "Sha": "c35b88fd343ff5924bdea1b33f2c2a6cd490b955",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "6b18bf36b15eaafef1bcc669589be02db44a6f7d",
+      "Sha": "893259ee63462f6c8e1916fea455b2b5e141ce4c",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "bc7b32d6500ad4034b42d9749f2e5bd595be3f09",
+      "Sha": "52cc46fc43ab3308dca6cce6466b093f9508c4ef",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "007587202fcd582e65eae44377eb886731b7ef95",
+      "Sha": "7f6d648793a6b1637a6ed497b342a61e8b51eb49",
       "Offset": 0,
-      "Size": 390340
+      "Size": 298651
+    },
+    {
+      "Sha": "24df10f455610803ae3505e831ce38a09048e334",
+      "Offset": 303410,
+      "Size": 90068
     },
     {
       "Sha": "428422f69464607e6eeff9b9053a7d24542d8d42",
@@ -180,7 +190,7 @@
       "Size": 280
     },
     {
-      "Sha": "312d9b85fee116b9a513fd431c80bee4bc65227a",
+      "Sha": "ffb31a74213b7e9c4bc1a6e32e43a9a8725d9754",
       "Offset": 0,
       "Size": 72
     },
@@ -190,7 +200,7 @@
       "Size": 280
     },
     {
-      "Sha": "144d234553c44271b05b9f44d9db90a0bc40cdd4",
+      "Sha": "4832ff043e82e794cfefe1cc171211cba888a173",
       "Offset": 0,
       "Size": 71
     },
@@ -200,7 +210,7 @@
       "Size": 1967
     },
     {
-      "Sha": "3567b09b399e3e8b7729acc4fcf08f7f2bac9e0a",
+      "Sha": "4b8252f01b9c49659f31b4d07406d9965e01d730",
       "Offset": 0,
       "Size": 65
     },
@@ -510,7 +520,7 @@
       "Size": 466360
     },
     {
-      "Sha": "51c78db9dc2673009a1aa727a22682e709747262",
+      "Sha": "98029b5a3bddbad2735f95587d97a1ce8188aa2a",
       "Offset": 0,
       "Size": 80
     },
@@ -705,10 +715,10 @@
       "Size": 205575
     },
     {
-      "Sha": "079d5c92ca128362ccf22d2c5f9260540e8cbc4d",
+      "Sha": "2b8a117ca330e339e5538aa0f5dd3443c20e8e0b",
       "Offset": 0,
       "Size": 38053
     }
   ],
-  "Notes": "Ana paneldeki küçük arka plan resmi kaldırıldı; sol bölüm korundu. Yerine 10 düşünürün eserlerinden kaynakları kontrol edilmiş 50 hukuk, hak, özgürlük ve adalet alıntısı eklendi. Her alıntı 10 saniye görünür, yazar ve eser adıyla gösterilir. Yumuşak geçiş, aynı turda tekrarsız sıralama, başka sayfada otomatik durma; açık/koyu tema uyumu. Gerçek zamanlı alıntı değişimi dahil 47 uygulama kontrolü başarılı."
+  "Notes": "Alıntı sayısı 100 oldu. 30 Mustafa Kemal Atatürk, 10 Tevfik Fikret ve 10 Cenap Şahabettin alıntısı eklendi; Atatürk dışında Türk siyasetçilerden söz eklenmedi. Kaynak ve sadeleştirme bilgileri kartın araç ipucunda bulunur. 10 saniyelik alıntı döngüsü artık diğer sayfalarda da devam eder; ana panele dönüldüğünde güncel alıntı görünür. Arka planda değişim ve açık/koyu tema dahil 48 uygulama kontrolü başarılı."
 }
