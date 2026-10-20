@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS4zLjgiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjgvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzU0NzgxLCJOb3RlcyI6IkFya2EgcGxhbiBrZW5hciBiYW50bGFyxLEsIGvDtsWfZSBheWFyxLEgdmUgYcOnxLFrIHRlbWEgb2t1bmFiaWxpcmxpxJ9pIGTDvHplbHRpbGRpIiwiU2hhMjU2IjoiNmY4YzQyZGZkMTFmMGIwZDdjYzE0NTIwNzNiNzNhYzU0MWE1ZjUxOTZhOTY1Nzg1OGI3NWVmYWY1Njk3MzliMiJ9",
-    "Signature": "KmBoHKtVpDBMQyCXufYVpdKtvmYV1nyyHV5SkMuxFWWqmMwGvKQR/G5SLTMmQn6Ylx6c+dV751cEc+/qWNoXSEGXsYTzWpswqSZkTEY55MIaIB1zcAtnr3zx9FbzWc/aDnUnKwd+lb3CqichJBOr49y17IPPRsmeOCvJc7bJUu36ZEE424sHw30abbYWexmKdxN6T59lOSAOGgySMbnUEx+2Ul1X9xUUjOSkRl+TIrrdYVnDL0Oc7f9UT6eZDyJ2MgzUE0c64C8VrHePu1uHiiHRwQxWYS9YfakRLlwEz1WHEyuoU+8/LxTttD4m9ier42zSV5/gC5bIuDJV0R19XK+1p51bE6aUVug5Xd4b7/YOEYaxG32vEh61jhC94j4DRexCXN35jXVfbUAMGkuodDW7WvgR/yRuGEiOaYIwyG8wKah9wkJEN/40WTZ1YzFGycjFOoLLSPlXxtr6xwh7YhgYKPSJiLuXhDrkv3EjHXeQSjO6f3fji1ITPKl17RhX"
+    "Payload": "eyJWZXJzaW9uIjoiMS4zLjkiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjkvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzU2NzgwLCJOb3RlcyI6IkNhbSB0YXNhcsSxbWEgdXlndW4gaW5jZSB2ZSB5dXZhcmxhayBrYXlkxLFybWEgw6d1YnVrbGFyxLEuIiwiU2hhMjU2IjoiOTg5MjJlZGFkYWQwNTU5Y2QzNTU2YWNmYmU0ZWEyZGQwMzU4NGFlNjQ0ODQ4NGMyNjc0NzAxYTZiNjNlYTg4MiJ9",
+    "Signature": "BJYnSzMizROVG5VrN32dIlnQ1S1fpgiyhGZSepbPY+RbDiqgRp88MuWbZnuuvKPKtsM8oswHmmC+MOHDo5hAyU2EJ+SenN6JwJKm4wa2koaCvksAehLDMgTpgr4z5a7EB9IOO1ndkd3s9MNP9XXW9H1VywRBOKvI9QFPnEnYrrnunSZJBFMy0OYFkU75JYDm9THD3Y5qjOUaOU+ecB5nMbV7+3hfBRp0F1thG2fmnuBCW5ZD+MEGMYpOx8U0lRBtgfPsfzw7WWiNrpmTrY+4UrknG/fPyRczIzAJD763AJKQvvO5r/cacat58nhnSl1OJpz8KLbBx5oVR8+B+D4K+D28MZTHrwkBxNNwrzbwwXUv3Vjc48kWXs7JJcSKAudTdR4z4RYClvbolT8KX0V9zaUdHKRL8jGiS+lTK2mXQPEqMYi/sh7D/z6GuLBKoCSu56q5Log1HT1zHwpqCW66ClyVCnQ2/CYoUXNyrFhHqXbLasHObuoK/Igs8ut39ecd"
   },
   "Chunks": [
     {
@@ -50,104 +50,104 @@
       "Size": 22968
     },
     {
-      "Sha": "a54c953a956771b5fb162f714481250f403ec9aa",
+      "Sha": "f877d279d1d972e5cf38433d831a7180ea6e6ca6",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "160a22af92d12ae1dc27068313a3a291a029c446",
+      "Sha": "30ac506b5d72b21717d5b782ddb8b6eb62c2a46d",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "61842368c9106cca981204f8ff013fcfe103573d",
+      "Sha": "4b7e68c9cf1d8fbd5f042c6accbacff8da948104",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "fcafcc679f291b12347d4e689b841e34c17bac85",
+      "Sha": "e8ba414fc1dca49fa765dc0a73afff489ae0a3d7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "32031021ecb6bcf8c23bb0156bfdecc16dc8a486",
+      "Sha": "ea186ae00ac8e407efa293334183ad73f37480cf",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "db2b02ed182c2d4785d9a866e0f64d59c1e59514",
+      "Sha": "ef99f5a4ef450cdcfde9b0cecf13e83ac9321b4b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "666f78b3fd839a0dd6dced1cc54080df18bdd346",
+      "Sha": "25e8ee824f535b3ed1c0a256d58716047484d09e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "083bdd7b9429497d68813e05cba7f4ee3666d190",
+      "Sha": "2dad3803c7984e5492acad343b8982c334743b80",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e3f0517c176a6cb41d9ef1058af7742f8179a5d3",
+      "Sha": "f96b37a3bd4da2daa26613e5ec7ff5dea37b0f15",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e52c37650ac96df2e2931c877e0819ef8c5152fc",
+      "Sha": "11e3b5976cde2e2d9492802efbff5c0e365e5c3d",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "da22a5d03b1f631496850f5fdd985595cb10980b",
+      "Sha": "c3b1131a2cf18d02cdf2becb73119c431111fc0d",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c274bfb4785f32b670817eccbd5f326e60d0faf6",
+      "Sha": "09e5d543942776052aadbe6f6b10e6685c732c16",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ae4becf191af19aba8008a5b2715f6d1ca085641",
+      "Sha": "879e89a54ff3bda549df5e610abe190fd9c017cd",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "b97d19091c618ddc8155ff0f5ef5aca693cb0e03",
+      "Sha": "33620eeeeaee972ea8ad5282783dbf337d388a45",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "85fcb3538f56bd570db240cabef8dfd01c3fee72",
+      "Sha": "21f9f3beaa5eeeabbc7b9b4a2c87958cd9988699",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "3c1af4da50430f42468b556ab9b748804b1c1781",
+      "Sha": "2e7aac52353fdb919c4bf3684e7502800058ef60",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "367b086ed3ec78fd2a220d42f05ff43f18168794",
+      "Sha": "46a15c6572847ef6770b03ed304776962a6aa7b4",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "1443fac3cb7b342fa2a2ada55b224da2e03fa239",
+      "Sha": "b414688d325094b6cd87c83714b425e1f08a916c",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "accb7a734f52f1bdbcdf0b050a0b706a4b749533",
+      "Sha": "07eb25cb5df6c4b249daee8b5c08e5b456ef0730",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "580a7b37cc480b36b461e8d72166601d23e19314",
+      "Sha": "d55266baadb359202876e73665b716e9cc52f0c3",
       "Offset": 0,
-      "Size": 396964
+      "Size": 398963
     },
     {
       "Sha": "428422f69464607e6eeff9b9053a7d24542d8d42",
@@ -180,7 +180,7 @@
       "Size": 280
     },
     {
-      "Sha": "4275761cbbcc635cd83830e3040cdd36dd0c6a0f",
+      "Sha": "0c27d5e8e232768acf6af8d7cca6b445d61decd8",
       "Offset": 0,
       "Size": 72
     },
@@ -190,7 +190,7 @@
       "Size": 280
     },
     {
-      "Sha": "10f1cf89503d5c35e95bcdfb15d94263491786b5",
+      "Sha": "5ffc0576807f7d7439d728d03fe3a3dec1baa5fb",
       "Offset": 0,
       "Size": 71
     },
@@ -200,7 +200,7 @@
       "Size": 1967
     },
     {
-      "Sha": "4e2b3fcbfa82037a41313fde906c5558d2a8fd67",
+      "Sha": "edda549017a373a255180e90089b00bf60bc0749",
       "Offset": 0,
       "Size": 65
     },
@@ -510,7 +510,7 @@
       "Size": 466360
     },
     {
-      "Sha": "798302387bd8269654ad6234371b3bcca741567d",
+      "Sha": "1ffd008c1abd920a4867e42b9062cfc7bd8b0ad0",
       "Offset": 0,
       "Size": 80
     },
@@ -705,10 +705,10 @@
       "Size": 205575
     },
     {
-      "Sha": "a26c86c8723b5c89a26e084e45034e97771a2249",
+      "Sha": "e65d35352d3952024f88eab69769277786e04c97",
       "Offset": 0,
       "Size": 38053
     }
   ],
-  "Notes": "Pencere modunda üst/alt, tam ekranda sağ/sol kenarlarda oluşan renk bantları giderildi. Arka plan tek katmanda, en-boy oranını koruyarak bütün alanı doldurur; bulanıklık kenarları ve köşe kırpması düzeltildi. Yuvarlatılmış köşe tercihi artık iç çerçeveye de uygulanır. Açık temada siyah metinlerin arka plan kontrastı artırıldı. 4 arka plan × 2 tema × 3 pencere boyutu ve tüm ana sayfalar kontrol edildi. 157 otomatik test, 49 uygulama kontrolü ve 40 görünüm kontrolü başarılı; veri bağlama hatası yok."
+  "Notes": "Kaydırma çubukları Liquid Glass tasarımına uygun ince, yuvarlak ve şeffaf olarak yenilendi. Açık/koyu tema renkleri, fareyle üzerine gelme ve sürükleme durumları desteklenir. Dikey ve yatay kaydırma, 43 görünüm/kaydırma kontrolü ve 49 uygulama kontrolü doğrulandı."
 }
