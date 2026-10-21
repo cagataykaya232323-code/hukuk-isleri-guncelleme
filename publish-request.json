@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS41LjEiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjEvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzkxMTYxLCJOb3RlcyI6IllhemTEsXJtYSBldGtpbmxlxZ90aXJpbGRpOyB0YW0gZWtyYW4gYmHFn2xhbmfEscOnLCB5ZW5pIGHDp8SxbMSxxZ8gZ2XDp2nFn2kgdmUgYmVsaXJnaW4gdGFyaWgvc2FhdCB5YXrEsSB0aXBpLiIsIlNoYTI1NiI6IjU1NGYzODI1NTUzNmQ5OWEyM2E1NjI0Njk4NWI3MjQ2NDU4YjE4ZWUyMmVlMDY4ZTkyZTRkZGJmZGMyMDRkMjEifQ==",
-    "Signature": "hLRTG/30m/EEvErhDTsJCOBawLC9j2ACz/M3F4//BTFbpKg0lkbBeQbfjo4DUjTzQ1kcsddcAeWPF+F1Jrv9LIL+I5kM1WlJpWl1Ag7MExCj/TgGDItKC2H/T0UhM5U7/E/Hj6LnLn2euozmPUC132vP2xVBKTy5/d0T0kwS+9L1D00Xdwuze7PO0cuSOO/j16ny6KzSCxO4HrmZPotjGKQOyl4RTE/wVd3uOqKRQW66ca/ytUVHI3V9EJenMM0RYtSzXpQ0n3XRo21d/0ilxOdoNRObPjXoPNpMBPvhQcKjYlbHyqpfdfNpMNX7NDh32qqDJrBmIGhBAFqHdn6SolUGGoYuwaD7TXYMCaXchWOdqsuSnPN8UIu1olHIb75lwHFtYO3Yt1fxbp3+p6dGytDlSm0335rlWnqpus8uIYbkD9FNqOzcpIBV96vKFIW97B6xPlLwo6wbo3kfisjLcMd8zUJPqgYG1ljdAV8dDdvuS433pGIl3OeAOGfrHBwr"
+    "Payload": "eyJWZXJzaW9uIjoiMS41LjIiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjIvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzkyNTQwLCJOb3RlcyI6IkFsxLFudMSxIGthcnTEsW7EsW4gw7Zsw6fDvGxlcmkgdmUgc2FhdCB5ZXJsZcWfaW1pIHNhYml0bGVuZGk7IG1ldGluIGRlxJ9pxZ9pcmtlbiBhbGFuIGhhcmVrZXQgZXRtZXouIiwiU2hhMjU2IjoiYWI5MDNkM2Q2OGU4MDdiMTBmMzJlOGE3YTg0NThiODExMDFkZWNkM2ViNzI3OWI0YWIxNjBlMjM5YzhhOWQyOSJ9",
+    "Signature": "SoGbYjMH8HO4I6lv5h4dydBQ+mC11P0+7FvoOncoxuM/OxFX45ZPBbXQzQVVpVS2y7oQ/TBUb+mgKcQRMgk44YXgorMjqGoGg6bD6t27VIQnG6Prri3087d466JnHot5X2YQN05Bt4itHpchKPoXXFT57HWMz0X8a/MX5XGZzCItxgOR4Te53zUf9xaFpcbpY8+XRE/uUaJi1TncUfN3xdOxjKUnL9nLvGQdFbMEaNYHYx6LqtcmFF8bRC+eY73dHtL82RmP5GGTBtZRluOLGCCSGBmnlzWVO+dsuwvyFfrf9ys7/Tik7+WXzBhh0zoDzEV7UY623mxTFC8EiaAN+0ZSHgW03qYPMwv4UpU88FjwTt7KJ6SwCkCuL1N5HNd0C4oMu411xzTf6A0IjXYsCnjVhAa3Vxb2QpnBEaOJT7mud5fAMXI3awPTAgGEWEBLhMGKMcnodMcM7IVUsh/w4p8yl7OQP/KITbz+eCgwgM+M3RKYSSNsqRQmCoCAEiUh"
   },
   "Chunks": [
     {
@@ -30,7 +30,7 @@
       "Size": 474687
     },
     {
-      "Sha": "2c221a5752d51bd23bc6bbcda5cff26fff1c3cf8",
+      "Sha": "747eb2e500ed97fee50efc3f4367e0b0433cbcdd",
       "Offset": 0,
       "Size": 75
     },
@@ -40,9 +40,19 @@
       "Size": 1222
     },
     {
-      "Sha": "10d0eec60515a5d6b7c2b642b4e2dc96fb4e9033",
+      "Sha": "7930d56c4a56420f3931f9c8e02532e53b792a40",
       "Offset": 0,
-      "Size": 831
+      "Size": 75
+    },
+    {
+      "Sha": "10d0eec60515a5d6b7c2b642b4e2dc96fb4e9033",
+      "Offset": 75,
+      "Size": 756
+    },
+    {
+      "Sha": "ccb940388b113453ee8c3f62afeb903376ba40a0",
+      "Offset": 0,
+      "Size": 418
     },
     {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
@@ -65,104 +75,104 @@
       "Size": 22968
     },
     {
-      "Sha": "5c13744cee670e56b997cc73c28e97ac21a0d902",
+      "Sha": "3cfa4f5c990b974d7891bc5a8c0411c1c5cd959a",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "fc3f6e6f6fe8518052ca4a360e534c8efeeff866",
+      "Sha": "a8add74dd2cc34e5c46f32132bee18748db53302",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c426b1093bd34405433743cc495af2c0fe8139fb",
+      "Sha": "263ca68a4e3a7c7cfab6548cb857aa62921e4119",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "72f8fbc1c18f337ff7294a49e7ad3152103719c1",
+      "Sha": "b0f67df3d7be532f069c7c677d3a516593e2355e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "b93d5dd69026c96c310a0bbce43a2f1c99d860a2",
+      "Sha": "5313c0a72bfb8930d443fd17957f37c5193bdc97",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "80548b7f78a935d5ed1e45037768a11d53c5c98e",
+      "Sha": "f2cebf5a8b8fa2708d69bc9790dc0d254c45898e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "b5043d7263b5813ebd684e3e4979660a25c03802",
+      "Sha": "a37e9927421a8c69895489fb24709e3a7dce6f3a",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "87170e6a837394dfe2d8464f99cd5b42dc0972b1",
+      "Sha": "ec58404c43e93078e00fe8eaf4ffbdda4b09bbd1",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "8b472bb0fdf6e0f3f10cd34ff61e51f593159050",
+      "Sha": "ec846b6bf4305eacd32986770de382075086d587",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ea9bd83605875fce05c5d30a3035e128f9fb800b",
+      "Sha": "6316ee13b6c689fc0e8750b6f49c23c9e4347607",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "9deb55ec871f79bd7ddb7c201364651536b59bda",
+      "Sha": "f617dfd81aa1d5b7b2fc9c797586e1d5d801aeeb",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "fbcca13c05e1006e27c2c2b42ab030d3f669fbe4",
+      "Sha": "042e6f04307ac79758f9f6ac1d4d8a34374a7928",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "7931e9d218fdb1be6a59f75c257cb80fe52c9709",
+      "Sha": "199cd61ed2b289e611eef8a2f2b585a02ab6415d",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "87c19723c7f5a17f3f775001b01f14792faa69b3",
+      "Sha": "4f7e5d3b8cb0eeec785aaba26131c55e5ec1e37b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2eba3ce0609dfd31cb747f458fd51d214ba7936b",
+      "Sha": "9dfe028075c22162b41edaa91eda59741354e6ab",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "f206ba66e81cfc850068af2f255786d0df9f9a5b",
+      "Sha": "9fed13096dad3bc100b25f260883928f85ab6fe7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "18815ed6b3acbec811abd30b0229479632f4e3eb",
+      "Sha": "99bfb5f35376d73c0f2ad9693667b79227521ea6",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "4e8640fa94264e8eb07fa15eff21a5cfc42e2bc4",
+      "Sha": "b07903f618d965e0fee6e98b124170b2308d1659",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a3e631d7544e424aa0b8fbd853fcae370dc1ec24",
+      "Sha": "c492c2eb827a088d9b7858ddd7ecfe4875f45a2f",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "cf6021e4709f556f66a0182536b056bf28ff24c9",
+      "Sha": "19c063315545f4a2cbc7b6a3fad9fb0915f2b03d",
       "Offset": 0,
-      "Size": 421738
+      "Size": 422608
     },
     {
       "Sha": "1130b59286759aae56d639747f1e198a3dd5ed43",
@@ -200,7 +210,7 @@
       "Size": 280
     },
     {
-      "Sha": "45bdd4d914aabd81ad6dea02993a94f7851d756a",
+      "Sha": "477d115b0ac00993915b741da063ded994fb0a40",
       "Offset": 0,
       "Size": 72
     },
@@ -210,7 +220,7 @@
       "Size": 280
     },
     {
-      "Sha": "9e7a9eb4963181c08ac0e3d87d47cb4bf0aa4149",
+      "Sha": "5fd58cdf5a5d67609c1642a9e09cc02dfd26fb53",
       "Offset": 0,
       "Size": 71
     },
@@ -220,7 +230,7 @@
       "Size": 1967
     },
     {
-      "Sha": "80e71bc1ddbd831e1a28849d22eecdc29ede44ab",
+      "Sha": "1b6a99c88ab45e6e409f76e4246f8b57111e43f9",
       "Offset": 0,
       "Size": 65
     },
@@ -530,7 +540,7 @@
       "Size": 466360
     },
     {
-      "Sha": "4cd419bf428d07e3d0e9824f675adc44ae394033",
+      "Sha": "69cd8eb3ead884bc19b83864106831731edea2af",
       "Offset": 0,
       "Size": 80
     },
@@ -725,10 +735,10 @@
       "Size": 205575
     },
     {
-      "Sha": "eb0d880315fa0734fabee4c43e0aa9b4c4c1ffc9",
+      "Sha": "852a14e73ded3f6e42102813d2445de3ca45719e",
       "Offset": 0,
-      "Size": 38235
+      "Size": 38326
     }
   ],
-  "Notes": "Yazdır düğmesi UDF ve TIFF dahil seçilen belgelerde etkinleştirildi. Windows yazıcı seçimi açılır; bütün ön izleme sayfaları hazırlanır. PDF/görseller sayfa görüntüsüyle, metinli UDF/Word metin düzeniyle yazdırılır. Özgün UDF/Word düzeni için editörde yazdırma kullanılabilir.\nUygulama açılış animasyonundan sonra ekranı kaplayarak başlar.\nSaat Segoe UI Semibold yazı tipine geçirildi. Tarih büyütülüp 14 punto kalın, gün 12 punto kalın yapıldı.\nDaha geniş açılış sahnesi; perspektifli ışık tüneli, katmanlı altın/turkuaz yörüngeler ve kademeli ana ekran geçişi. Yaklaşık 7 saniye; tıklama/Esc ile geçilebilir.\nDoğrulama: 62 uygulama ve 43 görünüm/kaydırma kontrolü. UDF/PDF/çok sayfalı TIFF yazdırma hazırlığı doğrulandı; fiziksel çıktı gönderilmedi. Normal, atlanan ve animasyonsuz başlangıçlarda tam ekran doğrulandı. Kullanım notları Documentation/YENILIKLER-1.5.1.md içindedir."
+  "Notes": "Alıntı kartının genişliği ve yüksekliği sabitlendi; sütun artık metne göre ölçülmüyor. Metin değişirken kart, saat ve çevresindeki alanlar hareket etmez. Metin mevcut yazı boyutuyla kart içinde sarılır; alıntı kataloğu, 10 saniyelik döngü ve geçiş korunur.\n100 alıntı üç pencere genişliğinde denendi: 300 ölçü/konum/sığma kontrolünün tamamı geçti. Kart ve saat konumları sabit; tüm metinler sığdı. Toplam 62 uygulama ve 44 görünüm/kaydırma kontrolü geçti."
 }
