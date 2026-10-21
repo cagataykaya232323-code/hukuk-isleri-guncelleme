@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS4zLjkiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS4zLjkvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzU2NzgwLCJOb3RlcyI6IkNhbSB0YXNhcsSxbWEgdXlndW4gaW5jZSB2ZSB5dXZhcmxhayBrYXlkxLFybWEgw6d1YnVrbGFyxLEuIiwiU2hhMjU2IjoiOTg5MjJlZGFkYWQwNTU5Y2QzNTU2YWNmYmU0ZWEyZGQwMzU4NGFlNjQ0ODQ4NGMyNjc0NzAxYTZiNjNlYTg4MiJ9",
-    "Signature": "BJYnSzMizROVG5VrN32dIlnQ1S1fpgiyhGZSepbPY+RbDiqgRp88MuWbZnuuvKPKtsM8oswHmmC+MOHDo5hAyU2EJ+SenN6JwJKm4wa2koaCvksAehLDMgTpgr4z5a7EB9IOO1ndkd3s9MNP9XXW9H1VywRBOKvI9QFPnEnYrrnunSZJBFMy0OYFkU75JYDm9THD3Y5qjOUaOU+ecB5nMbV7+3hfBRp0F1thG2fmnuBCW5ZD+MEGMYpOx8U0lRBtgfPsfzw7WWiNrpmTrY+4UrknG/fPyRczIzAJD763AJKQvvO5r/cacat58nhnSl1OJpz8KLbBx5oVR8+B+D4K+D28MZTHrwkBxNNwrzbwwXUv3Vjc48kWXs7JJcSKAudTdR4z4RYClvbolT8KX0V9zaUdHKRL8jGiS+lTK2mXQPEqMYi/sh7D/z6GuLBKoCSu56q5Log1HT1zHwpqCW66ClyVCnQ2/CYoUXNyrFhHqXbLasHObuoK/Igs8ut39ecd"
+    "Payload": "eyJWZXJzaW9uIjoiMS40LjAiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS40LjAvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzU3ODgzLCJOb3RlcyI6IkV4Y2VsIGFrdGFyxLFtIMO2biBpemxlbWVzaW5kZWtpIHNhdMSxciBzZcOnaW0ga3V0dWxhcsSxIGTDvHplbHRpbGRpLiIsIlNoYTI1NiI6IjMwZGMyNGE4ZjA4ZDVlYjEzYWM3YzhhZmViMTkyMTZiZmFiYWU5N2Q3OTI0ZjI3YjZhZmU1ZGM2Mjc4MTQyYTAifQ==",
+    "Signature": "dFU4HhDCfI871FUBmCJJ1Nnt0LBha9n1to8oE0Q428wB+x8q04CIixH6NGuFGRZ4vQUgr306xd7fDRPdnZLi81+l+QUW81veGJ4S410yyz93NMnFQdmLOIoWJxEN64+9LjQLos0QpTIx7ltqqTmxP0oeBfyHxlTG8VUaV8PEvtC8qEY50fvViiOgPmftizHXHTPM7wzYEH3TMoS0i8cCSxFN24Hv7vaz7KNaJ+tmLYDm2SRYc2k5r2zybe3Of1ezjT5hNrUi87CGWlEfGK0q3WMF84acUMDxj8WNy7Eyaf3nuyX54pkmQjWitbF6Kz6e3S2mkv2fkgKK6DFh44CYACJQ8qQcFqm3zx19vYDtdJFuu50ghhfi6CsALYp6brGusF6CuKrwvLTunC4BUCujDP2UnPqvSTn5ctL4VgJ0Vgzg6GFi5teeda9+i/FojfjFAhk6PUzx/m03t/mQwgXnglsfXnEcr0C4g+v7xi3n0gK6GSXtG1sv+uMzOcaXWazZ"
   },
   "Chunks": [
     {
@@ -50,104 +50,104 @@
       "Size": 22968
     },
     {
-      "Sha": "f877d279d1d972e5cf38433d831a7180ea6e6ca6",
+      "Sha": "80320513228039748cdbce74677d4679eb2d89c7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "30ac506b5d72b21717d5b782ddb8b6eb62c2a46d",
+      "Sha": "40fd46192870f22b8b07dc80a0efd2f59212ee52",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "4b7e68c9cf1d8fbd5f042c6accbacff8da948104",
+      "Sha": "723a470ba5881ff2ecd232b7317fcf3d6d1a0ae3",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e8ba414fc1dca49fa765dc0a73afff489ae0a3d7",
+      "Sha": "ef7212fb7fa9d066d85ccc77a1c3389e75757679",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ea186ae00ac8e407efa293334183ad73f37480cf",
+      "Sha": "c9bd13a5a81171d69cf51772a3a7c2023cde195e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ef99f5a4ef450cdcfde9b0cecf13e83ac9321b4b",
+      "Sha": "91e962b6186c756f66b39ee18b1724cbf66ef604",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "25e8ee824f535b3ed1c0a256d58716047484d09e",
+      "Sha": "a31f01ad9e24ff744bb0f6d94b02c15c8021f4d4",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2dad3803c7984e5492acad343b8982c334743b80",
+      "Sha": "54e382e36f6ed0392c84dbb73320c173493ad30b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "f96b37a3bd4da2daa26613e5ec7ff5dea37b0f15",
+      "Sha": "9034b25ace3745923ba64efbbdae2a908ec8021a",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "11e3b5976cde2e2d9492802efbff5c0e365e5c3d",
+      "Sha": "c6fed40b4fc0f8dc11f73bbc48110e9d963edb25",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c3b1131a2cf18d02cdf2becb73119c431111fc0d",
+      "Sha": "4a3470038208b3d15df1400b9a8687c9e3b84238",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "09e5d543942776052aadbe6f6b10e6685c732c16",
+      "Sha": "74ab1c9ddc3846f0586db09bdb8ba336ee39676f",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "879e89a54ff3bda549df5e610abe190fd9c017cd",
+      "Sha": "26f4c341468d95ce48ba67068530ed91770aed7b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "33620eeeeaee972ea8ad5282783dbf337d388a45",
+      "Sha": "3bca5a8058053afbc598d12aeaeece27ed6bbaab",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "21f9f3beaa5eeeabbc7b9b4a2c87958cd9988699",
+      "Sha": "cd449c74990b5884ee43b93552d55d989326d9b5",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2e7aac52353fdb919c4bf3684e7502800058ef60",
+      "Sha": "7e38dcab574386eda29666bf6be88b3a139057f9",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "46a15c6572847ef6770b03ed304776962a6aa7b4",
+      "Sha": "6ba63db29f3e4d18291141de61a13231a15ae4fc",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "b414688d325094b6cd87c83714b425e1f08a916c",
+      "Sha": "a630f1562d85223ecfdec7f2eeff801f73dd5690",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "07eb25cb5df6c4b249daee8b5c08e5b456ef0730",
+      "Sha": "dc715fad3a2907e9b2630f79e8d6b5e8df7b76f8",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "d55266baadb359202876e73665b716e9cc52f0c3",
+      "Sha": "e117a86a1b373bd18f3fe901fc9ecab6ac68598b",
       "Offset": 0,
-      "Size": 398963
+      "Size": 400066
     },
     {
       "Sha": "428422f69464607e6eeff9b9053a7d24542d8d42",
@@ -180,7 +180,7 @@
       "Size": 280
     },
     {
-      "Sha": "0c27d5e8e232768acf6af8d7cca6b445d61decd8",
+      "Sha": "2ecfe77e1d5ebf1fa525efa8c77ac959e4413f4a",
       "Offset": 0,
       "Size": 72
     },
@@ -190,7 +190,7 @@
       "Size": 280
     },
     {
-      "Sha": "5ffc0576807f7d7439d728d03fe3a3dec1baa5fb",
+      "Sha": "b9553a81ac2143e33eaa71504853b4bbfb5ec296",
       "Offset": 0,
       "Size": 71
     },
@@ -200,7 +200,7 @@
       "Size": 1967
     },
     {
-      "Sha": "edda549017a373a255180e90089b00bf60bc0749",
+      "Sha": "a7cefe00ebfa247ebabf3a69db4ec5d5726407cd",
       "Offset": 0,
       "Size": 65
     },
@@ -510,7 +510,7 @@
       "Size": 466360
     },
     {
-      "Sha": "1ffd008c1abd920a4867e42b9062cfc7bd8b0ad0",
+      "Sha": "d07fb5392016fb7040913617ea384f3856791067",
       "Offset": 0,
       "Size": 80
     },
@@ -705,10 +705,10 @@
       "Size": 205575
     },
     {
-      "Sha": "e65d35352d3952024f88eab69769277786e04c97",
+      "Sha": "2630dcfca8b2d3d6474492e214992f759192ee27",
       "Offset": 0,
       "Size": 38053
     }
   ],
-  "Notes": "Kaydırma çubukları Liquid Glass tasarımına uygun ince, yuvarlak ve şeffaf olarak yenilendi. Açık/koyu tema renkleri, fareyle üzerine gelme ve sürükleme durumları desteklenir. Dikey ve yatay kaydırma, 43 görünüm/kaydırma kontrolü ve 49 uygulama kontrolü doğrulandı."
+  "Notes": "Excel aktarım ön izlemesindeki Aktar kutuları düzeltildi. Satırlar tek tıklamayla seçilebilir; seçim anında uygulanır. İşareti kaldırılan satırlar aktarılmaz, yeniden seçilenler aktarılır. Kaynak veri sütunları salt okunur kalır. Gerçek pencere seçim/aktarım kontrolü dahil 50 uygulama kontrolü geçti."
 }
