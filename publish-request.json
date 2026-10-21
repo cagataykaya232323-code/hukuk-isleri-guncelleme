@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS40LjAiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS40LjAvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzU3ODgzLCJOb3RlcyI6IkV4Y2VsIGFrdGFyxLFtIMO2biBpemxlbWVzaW5kZWtpIHNhdMSxciBzZcOnaW0ga3V0dWxhcsSxIGTDvHplbHRpbGRpLiIsIlNoYTI1NiI6IjMwZGMyNGE4ZjA4ZDVlYjEzYWM3YzhhZmViMTkyMTZiZmFiYWU5N2Q3OTI0ZjI3YjZhZmU1ZGM2Mjc4MTQyYTAifQ==",
-    "Signature": "dFU4HhDCfI871FUBmCJJ1Nnt0LBha9n1to8oE0Q428wB+x8q04CIixH6NGuFGRZ4vQUgr306xd7fDRPdnZLi81+l+QUW81veGJ4S410yyz93NMnFQdmLOIoWJxEN64+9LjQLos0QpTIx7ltqqTmxP0oeBfyHxlTG8VUaV8PEvtC8qEY50fvViiOgPmftizHXHTPM7wzYEH3TMoS0i8cCSxFN24Hv7vaz7KNaJ+tmLYDm2SRYc2k5r2zybe3Of1ezjT5hNrUi87CGWlEfGK0q3WMF84acUMDxj8WNy7Eyaf3nuyX54pkmQjWitbF6Kz6e3S2mkv2fkgKK6DFh44CYACJQ8qQcFqm3zx19vYDtdJFuu50ghhfi6CsALYp6brGusF6CuKrwvLTunC4BUCujDP2UnPqvSTn5ctL4VgJ0Vgzg6GFi5teeda9+i/FojfjFAhk6PUzx/m03t/mQwgXnglsfXnEcr0C4g+v7xi3n0gK6GSXtG1sv+uMzOcaXWazZ"
+    "Payload": "eyJWZXJzaW9uIjoiMS41LjAiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjAvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1Nzg2NjExLCJOb3RlcyI6IkFrxLFjxLEgQ0sgYcOnxLFsxLHFn8SxLCBkaWppdGFsIHNhYXQsIG9rdW5ha2zEsSB2ZSBzZcOnaWxlYmlsaXIgw7ZuIGl6bGVtZSwgeWVyZWwgacOnZXJpayBhcmFtYXPEsSwgbcO8a2VycmVyIGtvbnRyb2zDvCB2ZSB5ZWRla2xlbWUuIiwiU2hhMjU2IjoiY2Y3OWIxODJlNWIxNzY2NTNmODE3NTJhNTdmMzk1YWY5ODZjODA5ODg1ZDRmZWNkYzNkM2I2MTNmM2U4YTNjZSJ9",
+    "Signature": "G4I+BFCrfjLKeXajuMzpSr7VWO8AnLAwtHro72YQqJbNOHLfeNEz6CY2G0ABM/bdVnEd7j8XRCNwDBHZpIDGPZJE2XZTWqUpZigRlnILPA8InY2QuzY1z8pZKDm+Zj4FPlY2FuUlyBdg3BtFGjoQnIFAyLB0mFZLzofAHtAvfLFwRircH852zK+jynWnh62fQzLVLTFP8XBopiccRP6/FkqLSp3ZvvzsNxxlnK4sfN1w+XsxVsUGZJ0xmZ1TEHlp5NkCdWjk5YSaK0EIEQDiyHUCVLqxsiOIwC7QDcKNOkJpCbJW3ZVHQf1OmIAPhkUOQNQQjnf9gbzsLaI4kmmge7NnU2LPwD2z4raYxjfjoS7BnqT1OSKQ8WNgyNEcANy2J+BE6Z3+9TNBnBV7Hu4odyLPt1rzJjQDuHyniMUTiwohgBbc/N2aaBNjuKspKRHjX4sFYVFiAmLe3VY5ZYPLYMSAmSJF7/FtZJGwfLqNeen9mr/ky+AsNLeZYSZuhvvu"
   },
   "Chunks": [
     {
@@ -30,6 +30,11 @@
       "Size": 474687
     },
     {
+      "Sha": "aeaf76283dde139c438a03214e557c99529481ab",
+      "Offset": 0,
+      "Size": 1297
+    },
+    {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
       "Offset": 536092,
       "Size": 1561060
@@ -50,109 +55,104 @@
       "Size": 22968
     },
     {
-      "Sha": "80320513228039748cdbce74677d4679eb2d89c7",
+      "Sha": "eae561d9880595c7d96293e098227ee7f5f3ce4f",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "40fd46192870f22b8b07dc80a0efd2f59212ee52",
+      "Sha": "baf3f7ed1161110913857c8c1cdc1ef6160638ea",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "723a470ba5881ff2ecd232b7317fcf3d6d1a0ae3",
+      "Sha": "3d09ac169ac3694f6c4b4c6cf4759b88daab6cdd",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ef7212fb7fa9d066d85ccc77a1c3389e75757679",
+      "Sha": "f690dd19eff3b78cdbd30aea3404797c6b83ca99",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c9bd13a5a81171d69cf51772a3a7c2023cde195e",
+      "Sha": "cce490b9be2cc104032390f3c1579d8871722073",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "91e962b6186c756f66b39ee18b1724cbf66ef604",
+      "Sha": "e84a8dc5e974a66efa51297b4181a411c0f65096",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a31f01ad9e24ff744bb0f6d94b02c15c8021f4d4",
+      "Sha": "a5c31e14f6f1070fcc8318722b1b548b7564b6e0",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "54e382e36f6ed0392c84dbb73320c173493ad30b",
+      "Sha": "7e3ce58a369b6a514d75695c735444b04b0f56a5",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "9034b25ace3745923ba64efbbdae2a908ec8021a",
+      "Sha": "5f5b81cba507025020c25e490ec3b08cab1ffbae",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c6fed40b4fc0f8dc11f73bbc48110e9d963edb25",
+      "Sha": "d2922e2607150d4208a39b252a235b8bc9bef376",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "4a3470038208b3d15df1400b9a8687c9e3b84238",
+      "Sha": "401380f89cb1f0a3d71c8288951164a1864cf237",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "74ab1c9ddc3846f0586db09bdb8ba336ee39676f",
+      "Sha": "7353a7592a3c8e4946246a2846f48e5a14dd902f",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "26f4c341468d95ce48ba67068530ed91770aed7b",
+      "Sha": "d39782df2b1e5e532f7be11cd52d4376cfc7722c",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "3bca5a8058053afbc598d12aeaeece27ed6bbaab",
+      "Sha": "baefa99101df51d56e799d624d5d538f2c19c34b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "cd449c74990b5884ee43b93552d55d989326d9b5",
+      "Sha": "e087f61dbc1d561ec618ae19d52dac4fe9587762",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "7e38dcab574386eda29666bf6be88b3a139057f9",
+      "Sha": "9ce4982efeb9d4c6c92d312c9d6816b021293584",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "6ba63db29f3e4d18291141de61a13231a15ae4fc",
+      "Sha": "ffa29f317612c16a751eead80527d41e24008b4b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a630f1562d85223ecfdec7f2eeff801f73dd5690",
+      "Sha": "b3c2b7abcabfdb64e3c4fe4bc8cacf31183148bc",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "dc715fad3a2907e9b2630f79e8d6b5e8df7b76f8",
+      "Sha": "2279df3585521d06206bcd53c57a20a083d19dea",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e117a86a1b373bd18f3fe901fc9ecab6ac68598b",
+      "Sha": "1130b59286759aae56d639747f1e198a3dd5ed43",
       "Offset": 0,
-      "Size": 400066
-    },
-    {
-      "Sha": "428422f69464607e6eeff9b9053a7d24542d8d42",
-      "Offset": 1547408,
-      "Size": 58251
+      "Size": 485659
     },
     {
       "Sha": "9d2d837342107212db556d7d73ac9fbf7a285394",
@@ -162,7 +162,12 @@
     {
       "Sha": "15afaed65c78766ee0f4c102e85a2eeaf884ba6e",
       "Offset": 761096,
-      "Size": 7616
+      "Size": 4412
+    },
+    {
+      "Sha": "db127b39eae852fae448db6fcf0a807856a7d24b",
+      "Offset": 0,
+      "Size": 3202
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -180,7 +185,7 @@
       "Size": 280
     },
     {
-      "Sha": "2ecfe77e1d5ebf1fa525efa8c77ac959e4413f4a",
+      "Sha": "52e87691898ba6ca0acde8f17fe1aa31126032ad",
       "Offset": 0,
       "Size": 72
     },
@@ -190,7 +195,7 @@
       "Size": 280
     },
     {
-      "Sha": "b9553a81ac2143e33eaa71504853b4bbfb5ec296",
+      "Sha": "20a18df05311456f216ef6aa67c065ebeb1dfa66",
       "Offset": 0,
       "Size": 71
     },
@@ -200,7 +205,7 @@
       "Size": 1967
     },
     {
-      "Sha": "a7cefe00ebfa247ebabf3a69db4ec5d5726407cd",
+      "Sha": "add255171681e6c9d5e28be6458916e2c7db9502",
       "Offset": 0,
       "Size": 65
     },
@@ -510,7 +515,7 @@
       "Size": 466360
     },
     {
-      "Sha": "d07fb5392016fb7040913617ea384f3856791067",
+      "Sha": "4efbc0b0032934f0e8a4fd647db3250288371315",
       "Offset": 0,
       "Size": 80
     },
@@ -705,10 +710,10 @@
       "Size": 205575
     },
     {
-      "Sha": "2630dcfca8b2d3d6474492e214992f759192ee27",
+      "Sha": "1bac615b1ee7daadf63f3e362cdb26acde2d7146",
       "Offset": 0,
-      "Size": 38053
+      "Size": 38144
     }
   ],
-  "Notes": "Excel aktarım ön izlemesindeki Aktar kutuları düzeltildi. Satırlar tek tıklamayla seçilebilir; seçim anında uygulanır. İşareti kaldırılan satırlar aktarılmaz, yeniden seçilenler aktarılır. Kaynak veri sütunları salt okunur kalır. Gerçek pencere seçim/aktarım kontrolü dahil 50 uygulama kontrolü geçti."
+  "Notes": "CK logosuyla yaklaşık 7 saniyelik yıldız ve çift ışık yörüngesi açılışı; ana ekrana yumuşak geçiş; tıklama/Esc ile atlama.\nAlıntıların solunda saniyeli dijital saat ve tarih; mevcut 100 alıntı ve döngü korundu.\nOpak okuma zemini, UDF/metin seçimi ve kopyalama. PDF/görsel sayfalarda Metni seç yerel OCR metnini açar; Sayfa orijinale döner. UYAP Editör simgesi, genişletilebilir ön izleme ve belge türü etiketleri.\nAynı içerik için SHA256 mükerrer taraması ve belge ekleme uyarısı; dosya tarihine göre zaman çizelgesi; yerel içerik araması.\nGünlük yerel kayıt/ayar yedeği, son 30 yedeği koruma, geri yükleme öncesi yedek ve yerel işlem geçmişi. Orijinal ağ evrakları yedek kapsamına dahil değildir.\nDoğrulama: 162 test, 55 uygulama ve 43 görünüm/kaydırma kontrolü. Normal/atlanan/animasyonsuz açılışlar ayrıca doğrulandı. Kullanım notları Documentation/YENILIKLER-1.5.0.md içindedir."
 }
