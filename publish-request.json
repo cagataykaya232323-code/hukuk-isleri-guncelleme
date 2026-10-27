@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS41LjQiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjQvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1NzkyNjkxLCJOb3RlcyI6IkV4Y2VsIHTDvG0gZGF2YSBzYXlmYWxhcsSxbsSxIGF5csSxIHNla21lbGVyZGUgZ8O2c3Rlcm1lLCBrYXluYWsgc2F5ZmEgc8SxcmFzxLEgdmUgc2F5ZmEgacOnaW5kZSBhcmFtYSBla2xlbmRpLiIsIlNoYTI1NiI6IjMyNjI0ZWFlMGQ1N2UzODdkOTNjMjdkNDlkYWE2YjAyZDE2M2FjZDBhNmZjNWMzNDZkMTM0ZmYxNGY4MTlmMGQifQ==",
-    "Signature": "K1CLO/yv01G0o+mj/xrbYhC/y9svLAoBzbsf5UxD0LJ6Le9h+A7CMOPDZmPYv10WWxw9c907rrlHh82J7glCYFUNKsgVdq3Eh85j2EQts3YpQhpWY2FGn+qLeefIFaKbHnydzvNOYLlzZQok8DcUjcxAjQp3h5Qn47hQRqIIFjBch7GqywbKxAj6AAZytapm9vxRItGv12LAy+x7mdyPzm+mfPwUDU2DJFtrcgNeP/lpjZqjy7VKYvZD6f1U2KBlK1c4UnNaxe8SgYq9IIZUyHjUe4dva8OqA6gqIrkkkirkXrXStFYS6Q5OlcyN7iVaktP+Wz2KAOOXpguvqlDa2lmWdNqwbVpa/im8+xX0ddEe+uW8tIrRec5fWso7i9coeabjuD0piZhWdHeL0de4g2a8kHRy62rTRgLTNNDwgo1JUHsX/eLMfjzFKxaFWW+jdrc4ZRX2tAGqQ8Rf3LKhvwrMNBB7HM9tTA6DnDHIeHIU9zyJgVe0jXxtd9VKKJrV"
+    "Payload": "eyJWZXJzaW9uIjoiMS41LjUiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjUvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1Nzk3MzYwLCJOb3RlcyI6IkV4Y2VsIGjDvGNyZWxlcmluaSB2ZSBzYXlmYSBzxLFyYXPEsW7EsSBvbGR1xJ91IGdpYmkgZ8O2c3Rlcm1lOyBhbGFuIHZlIGJhxZ9sxLFrIGhhdGFsYXLEsW5hIHRha8SxbG1hZGFuIGRvxJ9ydWRhbiBha3RhcsSxbS4iLCJTaGEyNTYiOiJjZTc3NWJmOTFmM2VhMmMxNzg4OGEzNGZlMzU2MGUzZTk1MjIxMTFhYjk3ZTQzOGVlM2UzMmFmMzgwZDg3ZTNjIn0=",
+    "Signature": "WJeA0nRbJ6yjcGHCs+1Dpy0dZOCMqz40FlEXRM2T/0sJcHTKFAaTuqbGviJLUCf41Eq4UX6f87j0UTShSN9hIQtKHyDBhU1AGr21n1k/Dw8IzXrUU90CCT0E1CjHDdT/ORAf+8/F/8zCHfiiBYCbgrohiJ658NQD2j0G6saIQ/q8uVaubizT6u+mR4NBQCrJfAn+nOBbXVWGeiAskRaGlfHcSYHZwDPOEJ6KAzfXZWFeWk/L2gDF7+/fgXmjCAOaeMOm3UMpBzj+KyCDejlePIXrdL8sHeQ/vm8O7KV6xJMdOw+ru1u0yifNtDQgCbsemCkKm4ly0rgzNohGPgXvGp/sCcD6kMJZXoIirnghdd1ODOihL4twkbuOVwI482CBX7IvjSh3MP7C4nvdzgPpDDukDj9PKNIFlNH7so1yq+bpKJAYorUpfZcmW1YLOI0/2PrvPqjkvz//CrAyKHjsDW8xErTYRYvVZ9WivC/9h5luc0j2i03bsr8m9wraWRFT"
   },
   "Chunks": [
     {
@@ -30,9 +30,9 @@
       "Size": 474687
     },
     {
-      "Sha": "ddd9123ad7a5068c9115f8bdf141279875eec329",
+      "Sha": "b846bfc689adbdaa9058d98f15c88fc8f1300730",
       "Offset": 0,
-      "Size": 444
+      "Size": 516
     },
     {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
@@ -50,114 +50,119 @@
       "Size": 28754
     },
     {
-      "Sha": "60e23d04182eed061db6c8582e86dcb2480ed4bf",
+      "Sha": "0ec8d1864896f6170c96411f2bb13308f466ddac",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ff2bb1273ba29a42e8d2e55511a971b74a1601e4",
+      "Sha": "ddeafbeec3f17481bba51add26de53460b3e8b50",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "459ba5c394d5fa0263f3592ef50675d139e5a46c",
+      "Sha": "480e6b0ffe025bcc86044a6030409bf73c506160",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "7bd5ada4e89f9d4b7a07ea555354cb37ad7c3aa1",
+      "Sha": "44626bca19b44225251dc761b22ad7c2b91483db",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "206c3bb8f9fddfd80b658af5a6c71a100480d433",
+      "Sha": "42d2ea830880bb20bb04152162afd23e4c716bc0",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "5fce7aa624a1af2f2f65d59a02a82737f2552d2b",
+      "Sha": "003fee1cfec1a2e360fdd3c4fcc6e6a6311987a9",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "aa2419249124528922f8d74e7ab78ab45df3aa59",
+      "Sha": "9f00bfb239cc5a3c9e5b6200545b1c4a61b37eca",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "fbee03f0e2fed91dd4285f2411e38f24a8e7e7d8",
+      "Sha": "9d5a807b1e42137f7f81682649775d9c6172fac0",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "cc2138e58386ce1144d7930d315ccb70387ee158",
+      "Sha": "915dd520d32eadc6bef45e1ef8c045b0381f3764",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "dbff2ec86730747cb3127d9c5d81a4ba2bd596de",
+      "Sha": "9325efdff229ed2bff162dfd0e0eead9b2a306fd",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "848e44ce46a9e49c2d6a22479581d559a72e7c04",
+      "Sha": "b174b8d1f32b958a993db2113f9c0f7630afd13b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "4a3c79d40b88a5a32559c842f70c6b0afd18a40c",
+      "Sha": "dacf15f02a80a2663559bb601da9801d1b4af568",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "77f6ccdb496d3550a0a8cbc94e3d34a2086e3227",
+      "Sha": "d741166a4749861317004b86f3b24ae98a32e3c2",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e36b7045a14d708daae6bed93629110b5c73662e",
+      "Sha": "afe6dc37f03ade6b0107e00daa0e0bfca822caea",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "4eca9fdb0b655d5edad6f23cdb539906e1c1bab1",
+      "Sha": "dd20d1917a12df7290780906484a0924b3bdd161",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "227bd4b52f3580b508c9fa8cf6084a52f6b35ab8",
+      "Sha": "3af4c9d90df888daf7bdba46ff0c5e89919f23f7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2f99ff85bc0f4e921280ed6907faa3c519f5171d",
+      "Sha": "3d5e28ad61e91a290d1b6d7922edae78817e9f4e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "f69b5af4d0293b990a7f50f4f14a3f8b02bfc881",
+      "Sha": "2500cd11121006c5ad8b6eb1d9b7ced4d1633d00",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "923a2f8a64b927c9279b67d49b057e3563d7708e",
+      "Sha": "2fe8665ba9aa391c77d4da8e42418fb2ae86f01f",
       "Offset": 0,
       "Size": 524288
+    },
+    {
+      "Sha": "725fe5dfd0afbe3d1d53ab0ae7a9f3a304fe7d6e",
+      "Offset": 0,
+      "Size": 362191
     },
     {
       "Sha": "ea31ed4a6ce5f1e5df83b6f0000527308c80315f",
-      "Offset": 0,
-      "Size": 362748
+      "Offset": 359887,
+      "Size": 2861
     },
     {
       "Sha": "045cf144cfe3e79948a70b3f264ee372aef84e1d",
       "Offset": 337120,
-      "Size": 81920
+      "Size": 79059
     },
     {
-      "Sha": "a1ad51ebcc2c5db5890f640c9e0467dec5687ec2",
+      "Sha": "0e6f0f2aef2b74595d64a0cc150053eb3b5ff999",
       "Offset": 0,
-      "Size": 71017
+      "Size": 75824
     },
     {
       "Sha": "9d2d837342107212db556d7d73ac9fbf7a285394",
@@ -170,7 +175,7 @@
       "Size": 4412
     },
     {
-      "Sha": "63efffd7da884c1d4302fb83c5267cdfeae29180",
+      "Sha": "8d84ab952c0d9fb1bdb65c73ec9b5bede4955bcb",
       "Offset": 0,
       "Size": 3203
     },
@@ -190,7 +195,7 @@
       "Size": 280
     },
     {
-      "Sha": "4211583c575b1bde159447d0304d5307d6e4e50d",
+      "Sha": "4af914981c7ea2f543bd037bb3290d4f72f3d199",
       "Offset": 0,
       "Size": 72
     },
@@ -200,7 +205,7 @@
       "Size": 280
     },
     {
-      "Sha": "14ece0d9c6c9c8d119175e772b445fa4c7f8eb61",
+      "Sha": "89928feb6dd436ea957159ab37eb40a32b2fed47",
       "Offset": 0,
       "Size": 71
     },
@@ -210,9 +215,14 @@
       "Size": 1967
     },
     {
-      "Sha": "814df61a3152cef3c3d15b64cd83ae4933055594",
+      "Sha": "a291b4240f0dea969a42f7b83b36c4933b588818",
       "Offset": 0,
-      "Size": 10290
+      "Size": 8328
+    },
+    {
+      "Sha": "814df61a3152cef3c3d15b64cd83ae4933055594",
+      "Offset": 8328,
+      "Size": 1962
     },
     {
       "Sha": "5d91cd00bfba331c002e5cbd8c0c3f5b029c95b6",
@@ -257,7 +267,17 @@
     {
       "Sha": "c64b92ad0e26a84af6aebb6c75b5e6595a40a684",
       "Offset": 0,
-      "Size": 524288
+      "Size": 14422
+    },
+    {
+      "Sha": "92e6a84cab00d94867103eed50edfe0adfefaed1",
+      "Offset": 0,
+      "Size": 32768
+    },
+    {
+      "Sha": "c64b92ad0e26a84af6aebb6c75b5e6595a40a684",
+      "Offset": 47190,
+      "Size": 477098
     },
     {
       "Sha": "66a1230be2b8fbc45427b9fa5ed153e26c4c2160",
@@ -522,7 +542,12 @@
     {
       "Sha": "516814f7aa867dee92ea59288200a384ae8d0471",
       "Offset": 0,
-      "Size": 210264
+      "Size": 161878
+    },
+    {
+      "Sha": "4152a9d7b0661f757e17dcbf55b6e75481d3124c",
+      "Offset": 0,
+      "Size": 48733
     },
     {
       "Sha": "7203ca1b318885df4f0a810a847c164f1f4b52ae",
@@ -715,10 +740,10 @@
       "Size": 205575
     },
     {
-      "Sha": "5a536fa01e783aaa61c894d111a350aed756fb81",
+      "Sha": "541323dae6b6513bf05d7d1cd9f430257b948809",
       "Offset": 0,
       "Size": 38144
     }
   ],
-  "Notes": "Excel çalışma kitabındaki tüm dava sayfaları okunur ve Excel adlarını/sırasını koruyan ayrı sekmelerde gösterilir. Seçilen sayfada kaynak satır sırası korunur; ortak dava ilgili sekmelerde aynı kimlikle görünür. Arama seçilen sayfada çalışır; Tüm dosyalar birleşik listeyi açar. Kullanım: Excel’den Aktar ile .xlsx dosyasını seçip sayfaları gözden geçirerek aktarın. Mahkeme/esas başlıkları bulunmayan sayfalar inceleme bildirimiyle belirtilir. Kaynak Excel değiştirilmez. Doğrulama: 163 test, 73 uygulama kontrolü ve 44 yerleşim kontrolü geçti."
+  "Notes": "Excel dosyası seçildiğinde hata inceleme onayı istemeden doğrudan aktarılır. Hücre içerikleri, boş satırlar, sütun ve satır sıraları ayrı Excel görünümünde korunur. Eksik dava alanları, tanınmayan/tekrar eden başlıklar ve hücre hata değerleri bu görünümün aktarımını engellemez. Sayfa sekmesine tıklayın; hücre görünümü varsayılan açıktır. Dava ve belge işlemleri için hücre görünümü seçeneği kapatılabilir. Kaynak Excel değiştirilmez. Hücre verileri yerel indekste ve yedeklerde korunur. Bu görünüm hücre içeriklerini ve sıralarını korur; Excel biçimlendirmesinin, birleşik hücrelerin ve çizimlerin birebir kopyası değildir. Doğrulama: 164 test, 76 uygulama kontrolü ve 44 yerleşim kontrolü geçti."
 }
