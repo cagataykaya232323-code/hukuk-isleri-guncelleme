@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS41LjUiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjUvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1Nzk3MzYwLCJOb3RlcyI6IkV4Y2VsIGjDvGNyZWxlcmluaSB2ZSBzYXlmYSBzxLFyYXPEsW7EsSBvbGR1xJ91IGdpYmkgZ8O2c3Rlcm1lOyBhbGFuIHZlIGJhxZ9sxLFrIGhhdGFsYXLEsW5hIHRha8SxbG1hZGFuIGRvxJ9ydWRhbiBha3RhcsSxbS4iLCJTaGEyNTYiOiJjZTc3NWJmOTFmM2VhMmMxNzg4OGEzNGZlMzU2MGUzZTk1MjIxMTFhYjk3ZTQzOGVlM2UzMmFmMzgwZDg3ZTNjIn0=",
-    "Signature": "WJeA0nRbJ6yjcGHCs+1Dpy0dZOCMqz40FlEXRM2T/0sJcHTKFAaTuqbGviJLUCf41Eq4UX6f87j0UTShSN9hIQtKHyDBhU1AGr21n1k/Dw8IzXrUU90CCT0E1CjHDdT/ORAf+8/F/8zCHfiiBYCbgrohiJ658NQD2j0G6saIQ/q8uVaubizT6u+mR4NBQCrJfAn+nOBbXVWGeiAskRaGlfHcSYHZwDPOEJ6KAzfXZWFeWk/L2gDF7+/fgXmjCAOaeMOm3UMpBzj+KyCDejlePIXrdL8sHeQ/vm8O7KV6xJMdOw+ru1u0yifNtDQgCbsemCkKm4ly0rgzNohGPgXvGp/sCcD6kMJZXoIirnghdd1ODOihL4twkbuOVwI482CBX7IvjSh3MP7C4nvdzgPpDDukDj9PKNIFlNH7so1yq+bpKJAYorUpfZcmW1YLOI0/2PrvPqjkvz//CrAyKHjsDW8xErTYRYvVZ9WivC/9h5luc0j2i03bsr8m9wraWRFT"
+    "Payload": "eyJWZXJzaW9uIjoiMS41LjYiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjYvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1Nzk4NDc2LCJOb3RlcyI6IkV4Y2VsIGfDtnLDvG7DvG3DvCBrYWxkxLFyxLFsZMSxOyB0w7xtIHZlcmlsZXIgdXlndWxhbWEgdGVtYXPEsXlsYSB1eXVtbHUgbGlzdGVkZSBnw7ZzdGVyaWxpci4gU2F5ZmEgc2VrbWVsZXJpIHZlIGnDp2VyaWt0ZSBhcmFtYSBrb3J1bnVyLiIsIlNoYTI1NiI6IjBlNzE1MDI5MGQ1Y2NlNDNhYzgwNGZiYWI4MjM2OTI5NGY4ZTdiODEwOGMzMmViMjNiMTI1ZjA0NzAyZmY2YzkifQ==",
+    "Signature": "GU1EWftLsO4kJw5KKERjEJ8cNuvq6/T57tZE/ZbXfanLFwluDyEw33t/Biu9+bXcfEdRFA4+oix4rJ+mR2OEgZIq42sKLWQFpDZkWJRijdemRP46d5jCU/RnQ3o9i0W0wUzIu6SAKFc0QDSxiAtZIfvYV99jzmL4bFN5FbZWBzkkfX3A/a4hIYodZ64rI67zW56VsxhNiKileGxvWEcCWD6IECNziQYKs2tLOsVMR5euGucO1DaBatUK3w2dkpO3L7xqy09B2QOvQ6clq/D22kxr8fdTUSRVVrSBBRd0pE91Hc4OESW4UGUBWrtpI3/JJQYJ4CUyYTuPX67NWs4PZLnWQfwZ/44IdOmgYz+1lCFt8c+lC2ECOF0jquGz26fRVU+5QqceFeytx6qJEpQW9+IEOpG3SRXR5+6yaqvkiRWw4QLREsKzfqsF4g1BTwb/rCtKLYmfFi1Wlv/5MC8gH+2mrbVGptrNEmu20IDdAY8Zz9lpW596mDFxG8IMFfdr"
   },
   "Chunks": [
     {
@@ -30,9 +30,9 @@
       "Size": 474687
     },
     {
-      "Sha": "b846bfc689adbdaa9058d98f15c88fc8f1300730",
+      "Sha": "a1d6ff3b6edf95b65a734bab54dde5a503840a77",
       "Offset": 0,
-      "Size": 516
+      "Size": 380
     },
     {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
@@ -52,117 +52,122 @@
     {
       "Sha": "0ec8d1864896f6170c96411f2bb13308f466ddac",
       "Offset": 0,
-      "Size": 524288
+      "Size": 23158
     },
     {
-      "Sha": "ddeafbeec3f17481bba51add26de53460b3e8b50",
+      "Sha": "f984ab7cf682f00be65674b28010600223b2f60b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "480e6b0ffe025bcc86044a6030409bf73c506160",
+      "Sha": "62ccc333efb8be957f5199e14802b0a762e8a120",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "44626bca19b44225251dc761b22ad7c2b91483db",
+      "Sha": "19c869b8689288c8866ff0ba8a3449fa87fc8404",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "42d2ea830880bb20bb04152162afd23e4c716bc0",
+      "Sha": "7f5f06119193e99bf42a4a078f1f7e02b8413412",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "003fee1cfec1a2e360fdd3c4fcc6e6a6311987a9",
+      "Sha": "84fb2b413ce344658bba61ddd063c71bd4a7e348",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "9f00bfb239cc5a3c9e5b6200545b1c4a61b37eca",
+      "Sha": "76fed41d440f225353cc258f12f322a0b789827e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "9d5a807b1e42137f7f81682649775d9c6172fac0",
+      "Sha": "a30f7cd299a586785030437093ef4e99ddf885c6",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "915dd520d32eadc6bef45e1ef8c045b0381f3764",
+      "Sha": "ed3390fba61aff55414d6c8bcea63349298734b7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "9325efdff229ed2bff162dfd0e0eead9b2a306fd",
+      "Sha": "2058c4737e2037b83e8fb4182dc32a79e224e8c5",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "b174b8d1f32b958a993db2113f9c0f7630afd13b",
+      "Sha": "7ec3983895fcfcaa8bb12ae1c89eb7ea3a945f17",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "dacf15f02a80a2663559bb601da9801d1b4af568",
+      "Sha": "e8e7e1680c0daf2b6b24ba274509fa2915aafbc8",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "d741166a4749861317004b86f3b24ae98a32e3c2",
+      "Sha": "0003105ffb134c111c9c35ffde635b684a1031fe",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "afe6dc37f03ade6b0107e00daa0e0bfca822caea",
+      "Sha": "c62b52283e0034cc1e0b494dacd19e9176f09e70",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "dd20d1917a12df7290780906484a0924b3bdd161",
+      "Sha": "479a1e805cf894122c2edf8eb307abe3cd7c3633",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "3af4c9d90df888daf7bdba46ff0c5e89919f23f7",
+      "Sha": "31a54e9581f1d98bb5264e2908850b2eb6c751f0",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "3d5e28ad61e91a290d1b6d7922edae78817e9f4e",
+      "Sha": "89ad8a075ba108ea86c4298ace390238590caa02",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2500cd11121006c5ad8b6eb1d9b7ced4d1633d00",
+      "Sha": "82cc8b4effa50bc7249710df81922842d170da86",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2fe8665ba9aa391c77d4da8e42418fb2ae86f01f",
+      "Sha": "94e48a01dcf28e3e05ebcab6e9c8792944700a7b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "725fe5dfd0afbe3d1d53ab0ae7a9f3a304fe7d6e",
+      "Sha": "f95610d4dbc92d72c68a4d4a51001da70eeb0b00",
       "Offset": 0,
-      "Size": 362191
+      "Size": 524288
     },
     {
-      "Sha": "ea31ed4a6ce5f1e5df83b6f0000527308c80315f",
-      "Offset": 359887,
-      "Size": 2861
+      "Sha": "67f7f02e0a299984391cebf1161867e07cfc2e5c",
+      "Offset": 0,
+      "Size": 354290
     },
     {
       "Sha": "045cf144cfe3e79948a70b3f264ee372aef84e1d",
-      "Offset": 337120,
-      "Size": 79059
+      "Offset": 348267,
+      "Size": 65536
+    },
+    {
+      "Sha": "62816171dffda14f547f63fb4740d6b3c4ed340c",
+      "Offset": 0,
+      "Size": 9605
     },
     {
       "Sha": "0e6f0f2aef2b74595d64a0cc150053eb3b5ff999",
-      "Offset": 0,
-      "Size": 75824
+      "Offset": 7226,
+      "Size": 68598
     },
     {
       "Sha": "9d2d837342107212db556d7d73ac9fbf7a285394",
@@ -195,7 +200,7 @@
       "Size": 280
     },
     {
-      "Sha": "4af914981c7ea2f543bd037bb3290d4f72f3d199",
+      "Sha": "149b0e3216921d8647120592ee8c3d99823703eb",
       "Offset": 0,
       "Size": 72
     },
@@ -205,7 +210,7 @@
       "Size": 280
     },
     {
-      "Sha": "89928feb6dd436ea957159ab37eb40a32b2fed47",
+      "Sha": "d2ca7cc2f6903a882d148466547cc5133ff8ea13",
       "Offset": 0,
       "Size": 71
     },
@@ -215,9 +220,14 @@
       "Size": 1967
     },
     {
-      "Sha": "a291b4240f0dea969a42f7b83b36c4933b588818",
+      "Sha": "046ae2243e6ffd3bdeac72c43bee2f088d6bd954",
       "Offset": 0,
-      "Size": 8328
+      "Size": 65
+    },
+    {
+      "Sha": "a291b4240f0dea969a42f7b83b36c4933b588818",
+      "Offset": 65,
+      "Size": 8263
     },
     {
       "Sha": "814df61a3152cef3c3d15b64cd83ae4933055594",
@@ -547,7 +557,12 @@
     {
       "Sha": "4152a9d7b0661f757e17dcbf55b6e75481d3124c",
       "Offset": 0,
-      "Size": 48733
+      "Size": 48653
+    },
+    {
+      "Sha": "c8f838d6ea012959572dc17b5b36b3f2fd2db8de",
+      "Offset": 0,
+      "Size": 80
     },
     {
       "Sha": "7203ca1b318885df4f0a810a847c164f1f4b52ae",
@@ -740,10 +755,10 @@
       "Size": 205575
     },
     {
-      "Sha": "541323dae6b6513bf05d7d1cd9f430257b948809",
+      "Sha": "bb6a04136bd90fdfb0c7ccdff8debfdebeecbf8d",
       "Offset": 0,
       "Size": 38144
     }
   ],
-  "Notes": "Excel dosyası seçildiğinde hata inceleme onayı istemeden doğrudan aktarılır. Hücre içerikleri, boş satırlar, sütun ve satır sıraları ayrı Excel görünümünde korunur. Eksik dava alanları, tanınmayan/tekrar eden başlıklar ve hücre hata değerleri bu görünümün aktarımını engellemez. Sayfa sekmesine tıklayın; hücre görünümü varsayılan açıktır. Dava ve belge işlemleri için hücre görünümü seçeneği kapatılabilir. Kaynak Excel değiştirilmez. Hücre verileri yerel indekste ve yedeklerde korunur. Bu görünüm hücre içeriklerini ve sıralarını korur; Excel biçimlendirmesinin, birleşik hücrelerin ve çizimlerin birebir kopyası değildir. Doğrulama: 164 test, 76 uygulama kontrolü ve 44 yerleşim kontrolü geçti."
+  "Notes": "Aktarılan veriler uygulamanın tema renkleri, cam panelleri ve arka planıyla uyumlu listede gösterilir. Beyaz Excel zemini, hücre ızgarası, A-B-C sütun harfleri ve satır numaraları kaldırıldı. Kaynak başlıkları liste başlığı olarak kullanılır; diğer satır ve alanların içeriği/sırası korunur. Sayfa sekmeleri, hatalara takılmadan doğrudan aktarım ve içerikte arama devam eder. 1.5.5 ile aktarılan veriler yeniden aktarılmadan yeni görünümde açılır. Doğrulama: 78 uygulama kontrolü ve 44 yerleşim kontrolü geçti."
 }
