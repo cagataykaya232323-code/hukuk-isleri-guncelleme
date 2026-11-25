@@ -1,7 +1,7 @@
 {
   "Manifest": {
-    "Payload": "eyJWZXJzaW9uIjoiMS41LjYiLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjYvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1Nzk4NDc2LCJOb3RlcyI6IkV4Y2VsIGfDtnLDvG7DvG3DvCBrYWxkxLFyxLFsZMSxOyB0w7xtIHZlcmlsZXIgdXlndWxhbWEgdGVtYXPEsXlsYSB1eXVtbHUgbGlzdGVkZSBnw7ZzdGVyaWxpci4gU2F5ZmEgc2VrbWVsZXJpIHZlIGnDp2VyaWt0ZSBhcmFtYSBrb3J1bnVyLiIsIlNoYTI1NiI6IjBlNzE1MDI5MGQ1Y2NlNDNhYzgwNGZiYWI4MjM2OTI5NGY4ZTdiODEwOGMzMmViMjNiMTI1ZjA0NzAyZmY2YzkifQ==",
-    "Signature": "GU1EWftLsO4kJw5KKERjEJ8cNuvq6/T57tZE/ZbXfanLFwluDyEw33t/Biu9+bXcfEdRFA4+oix4rJ+mR2OEgZIq42sKLWQFpDZkWJRijdemRP46d5jCU/RnQ3o9i0W0wUzIu6SAKFc0QDSxiAtZIfvYV99jzmL4bFN5FbZWBzkkfX3A/a4hIYodZ64rI67zW56VsxhNiKileGxvWEcCWD6IECNziQYKs2tLOsVMR5euGucO1DaBatUK3w2dkpO3L7xqy09B2QOvQ6clq/D22kxr8fdTUSRVVrSBBRd0pE91Hc4OESW4UGUBWrtpI3/JJQYJ4CUyYTuPX67NWs4PZLnWQfwZ/44IdOmgYz+1lCFt8c+lC2ECOF0jquGz26fRVU+5QqceFeytx6qJEpQW9+IEOpG3SRXR5+6yaqvkiRWw4QLREsKzfqsF4g1BTwb/rCtKLYmfFi1Wlv/5MC8gH+2mrbVGptrNEmu20IDdAY8Zz9lpW596mDFxG8IMFfdr"
+    "Payload": "eyJWZXJzaW9uIjoiMS41LjciLCJVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2FnYXRheWtheWEyMzIzMjMtY29kZS9odWt1ay1pc2xlcmktZ3VuY2VsbGVtZS9yZWxlYXNlcy9kb3dubG9hZC92MS41LjcvSHVrdWtJc2xlcmktV2luZG93cy14NjQuemlwIiwiU2l6ZSI6MTE1ODA0Mjk2LCJOb3RlcyI6IkRhciBwZW5jZXJlIHPDvHR1bmxhcsSxIHZlIEjEsXpsxLEgRXJpxZ9pbSB5ZXJsZcWfaW1pIGTDvHplbHRpbGRpLiBCYcWfbMSxayDDtm5jZXNpIGHDp8Sxa2xhbWFsYXIgdmVyaSBrYXlixLEgb2xtYWRhbiBsaXN0ZSDDvHN0w7xuZSB0YcWfxLFuZMSxOyB5ZW5pZGVuIGFrdGFyxLFtIGdlcmVrbWV6LiIsIlNoYTI1NiI6ImEzZTk1OGE0N2EyOTRmYWYxMDU0ZTIxNmZiYWY1MjEwODcxMzI3MTBhNWFmYTliMDZiODQxNTc2OTdiYjdlYTMifQ==",
+    "Signature": "U/K25zKtPvIsFaplbZzV0nFeC0Co4u4hF2q849NViRX2wS1N4bTjNGsgOJOrUGtxAPTSAQUV4xtMKDszRcBd/77TGTB/qMBshpzYfv8tS/4yENJMZtokxdch7cDaGRbYNCDNGHIwJ7nXmFNQc1cGgdqv+TwKGCfASaqHAYA446eTQsYEXsP01AA4kOumNzA0AhNF+ATZmv2NFVz7Nu/8keIpqoDo5suUhZMwVeKQiqhjNtCbcDaG4YiO4HT3N5c5JoPWzRm0NMHXiSB1uJqpulIEeyGvorwmZwSZXKxPEzlumMLEov3Z/G/hJ19NWAPL3c12okswDQw+JXqRDdN6jc4K+sIZG26zwHh158SCftM89bDmvP6UL2WZyNXlTfEwvKRYk1TuebPBr6kkS5fewJthuEvDT/mQbcMR/ZsMrSUefM/lH/gU9NLJEiKFlXgUiNY/Vv69eI3Wbl6kGZ4OGze8BcAykumCoSoVdE/cR0MGt9QX6w+AeBuFl46x5bCM"
   },
   "Chunks": [
     {
@@ -30,9 +30,9 @@
       "Size": 474687
     },
     {
-      "Sha": "a1d6ff3b6edf95b65a734bab54dde5a503840a77",
+      "Sha": "9c02fb0cc684a98fbeef61c9ca77342341fd721a",
       "Offset": 0,
-      "Size": 380
+      "Size": 575
     },
     {
       "Sha": "ce3546775d1e5c23bbc0aa42aed3493e9ba2f908",
@@ -50,127 +50,137 @@
       "Size": 28754
     },
     {
+      "Sha": "f67a84f24793158c27331b6ce722ec8b46e8e395",
+      "Offset": 0,
+      "Size": 62
+    },
+    {
       "Sha": "0ec8d1864896f6170c96411f2bb13308f466ddac",
-      "Offset": 0,
-      "Size": 23158
+      "Offset": 62,
+      "Size": 23096
     },
     {
-      "Sha": "f984ab7cf682f00be65674b28010600223b2f60b",
+      "Sha": "fe6ffd6c0e032d1d4ff5722702c2d070bebb9050",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "62ccc333efb8be957f5199e14802b0a762e8a120",
+      "Sha": "091a4f3bb6266a03603443a105785dec4f3bbaf7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "19c869b8689288c8866ff0ba8a3449fa87fc8404",
+      "Sha": "2fa27774f9533105fce6ae8b82b6e3816cbb647c",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "7f5f06119193e99bf42a4a078f1f7e02b8413412",
+      "Sha": "39ecf5fae2cfb602b77fd498644a134723c829c7",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "84fb2b413ce344658bba61ddd063c71bd4a7e348",
+      "Sha": "2256ff8061d148d3c2ffdc9c30782b5f18c3544a",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "76fed41d440f225353cc258f12f322a0b789827e",
+      "Sha": "29b0c2502a01e053240b99921c28ca6e418682ed",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "a30f7cd299a586785030437093ef4e99ddf885c6",
+      "Sha": "328113247ee124c8610c188bbc06bcd52eb5b460",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "ed3390fba61aff55414d6c8bcea63349298734b7",
+      "Sha": "2354518ed8882ee97cf6de7130a117d4a4664ba6",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "2058c4737e2037b83e8fb4182dc32a79e224e8c5",
+      "Sha": "197c88f08ea98cec7eb71e048d2891f2d053a10e",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "7ec3983895fcfcaa8bb12ae1c89eb7ea3a945f17",
+      "Sha": "427e4ec5398c0e4cef7c0d076f3fb2fc417d9076",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "e8e7e1680c0daf2b6b24ba274509fa2915aafbc8",
+      "Sha": "d58e9d905c253b43fc993b62c70302deaa7a9ca9",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "0003105ffb134c111c9c35ffde635b684a1031fe",
+      "Sha": "acce25ef7a5fb0e23c78642192f85af8f512cba0",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "c62b52283e0034cc1e0b494dacd19e9176f09e70",
+      "Sha": "0c4d3da241c0090572204269e0c955134338598b",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "479a1e805cf894122c2edf8eb307abe3cd7c3633",
+      "Sha": "a909d8223a22cabe89febd81e2064240dc675534",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "31a54e9581f1d98bb5264e2908850b2eb6c751f0",
+      "Sha": "06dbf6b32ab7126798a7b6774e1dd50b322d1eea",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "89ad8a075ba108ea86c4298ace390238590caa02",
+      "Sha": "af79aaa0937f5024758065f1b9fb8a1ae7fedd13",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "82cc8b4effa50bc7249710df81922842d170da86",
+      "Sha": "c120584d862adb14c33dbe25a484f911e481eb35",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "94e48a01dcf28e3e05ebcab6e9c8792944700a7b",
+      "Sha": "68b3b7529dc61ab2c4a6148ce9f1b550b9763fdb",
       "Offset": 0,
       "Size": 524288
     },
     {
-      "Sha": "f95610d4dbc92d72c68a4d4a51001da70eeb0b00",
+      "Sha": "9a1cf6261552e678b822bc194402fd1585580d57",
       "Offset": 0,
       "Size": 524288
+    },
+    {
+      "Sha": "b5e19b3aaf8ee96ce0e12dfb327234b776f3ea1e",
+      "Offset": 0,
+      "Size": 358802
     },
     {
       "Sha": "67f7f02e0a299984391cebf1161867e07cfc2e5c",
-      "Offset": 0,
-      "Size": 354290
+      "Offset": 353177,
+      "Size": 1113
     },
     {
       "Sha": "045cf144cfe3e79948a70b3f264ee372aef84e1d",
       "Offset": 348267,
-      "Size": 65536
+      "Size": 64423
     },
     {
-      "Sha": "62816171dffda14f547f63fb4740d6b3c4ed340c",
+      "Sha": "f60e5230fb3f0b49f7bc8359eb8ef3fe6b6fc2c0",
       "Offset": 0,
-      "Size": 9605
+      "Size": 10790
     },
     {
       "Sha": "0e6f0f2aef2b74595d64a0cc150053eb3b5ff999",
-      "Offset": 7226,
-      "Size": 68598
+      "Offset": 7298,
+      "Size": 68526
     },
     {
-      "Sha": "9d2d837342107212db556d7d73ac9fbf7a285394",
+      "Sha": "b548c7fabd3bbe201531d044e2441e8b32084b63",
       "Offset": 0,
       "Size": 75
     },
@@ -180,9 +190,19 @@
       "Size": 4412
     },
     {
-      "Sha": "8d84ab952c0d9fb1bdb65c73ec9b5bede4955bcb",
+      "Sha": "7959ca86ddd36c95cbf0a92ff9b79119a09b2944",
       "Offset": 0,
-      "Size": 3203
+      "Size": 69
+    },
+    {
+      "Sha": "8d84ab952c0d9fb1bdb65c73ec9b5bede4955bcb",
+      "Offset": 69,
+      "Size": 3065
+    },
+    {
+      "Sha": "f96a8c868b6be1b5d146661c0867554f4209253e",
+      "Offset": 0,
+      "Size": 69
     },
     {
       "Sha": "fd5f0ece7237c15463f03f1c38ae2663672c7e2d",
@@ -190,7 +210,7 @@
       "Size": 71190
     },
     {
-      "Sha": "5ee82173cc59f4056bef4cdfad7162feddffb4f6",
+      "Sha": "12974b79f89263c43224fd2fb5cd346e010f062e",
       "Offset": 0,
       "Size": 84
     },
@@ -200,7 +220,7 @@
       "Size": 280
     },
     {
-      "Sha": "149b0e3216921d8647120592ee8c3d99823703eb",
+      "Sha": "2542c212da02262011208409e538c3a4daff1f9c",
       "Offset": 0,
       "Size": 72
     },
@@ -210,7 +230,7 @@
       "Size": 280
     },
     {
-      "Sha": "d2ca7cc2f6903a882d148466547cc5133ff8ea13",
+      "Sha": "f4a47161e0cb21647b3fddbcbfaebd34260f4833",
       "Offset": 0,
       "Size": 71
     },
@@ -220,7 +240,7 @@
       "Size": 1967
     },
     {
-      "Sha": "046ae2243e6ffd3bdeac72c43bee2f088d6bd954",
+      "Sha": "953901407dd3d4a189f1d567b98f3a70d9b5a765",
       "Offset": 0,
       "Size": 65
     },
@@ -560,7 +580,7 @@
       "Size": 48653
     },
     {
-      "Sha": "c8f838d6ea012959572dc17b5b36b3f2fd2db8de",
+      "Sha": "402f5ea5ff4420aaa0d282ea1a69826b00e0df08",
       "Offset": 0,
       "Size": 80
     },
@@ -755,10 +775,10 @@
       "Size": 205575
     },
     {
-      "Sha": "bb6a04136bd90fdfb0c7ccdff8debfdebeecbf8d",
+      "Sha": "611da1f9bb742a3945bb7dafbaac70bca3eda685",
       "Offset": 0,
       "Size": 38144
     }
   ],
-  "Notes": "Aktarılan veriler uygulamanın tema renkleri, cam panelleri ve arka planıyla uyumlu listede gösterilir. Beyaz Excel zemini, hücre ızgarası, A-B-C sütun harfleri ve satır numaraları kaldırıldı. Kaynak başlıkları liste başlığı olarak kullanılır; diğer satır ve alanların içeriği/sırası korunur. Sayfa sekmeleri, hatalara takılmadan doğrudan aktarım ve içerikte arama devam eder. 1.5.5 ile aktarılan veriler yeniden aktarılmadan yeni görünümde açılır. Doğrulama: 78 uygulama kontrolü ve 44 yerleşim kontrolü geçti."
+  "Notes": "Dar pencerede kaynak liste sütunları ekranı paylaşır ve uzun metinler satıra sarılır. Hızlı Erişim başlığı ile son güncelleme kartının örtüşmesi giderildi. Tanınan kaynak başlığından önceki açıklamalar liste üstünde gösterilir; başlıksız sayfaların tüm satırları listede kalır. Açıklamalar arama sırasında görünürdür, sonuç satırı sayılmaz. Saklanan hücre verileri değişmez; yeniden aktarım gerekmez. Yinelenen tanılama görüntüsü ve test uyarıları temizlendi. Doğrulama: 164 birim testi, 52 aktarım, 50 yeniden açma, 78 uygulama ve 45 yerleşim kontrolü geçti. Son 1.5.7 paketinde aktarım ve yeniden açma ayrıca doğrulandı."
 }
